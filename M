@@ -158,9 +158,31 @@ https://super-cdn.link/cinemax/index.m3u8
 https://super-cdn.link/comedycentral/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/fx-international-tv4291.jpg" group-title="CANAIS FILMES",FX
 https://super-cdn.link/fx/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/paramount-network8623.jpg" group-title="CANAIS FILMES",Paramount Network
+https://super-cdn.link/paramountnetwork/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sony-channel3794.logowik.com.webp" group-title="CANAIS FILMES",Sony Channel
+https://super-cdn.link/sonychannel/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS FILMES",Sony Movies
+https://super-cdn.link/sonymovies/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/300px-Star_Channel_2020.svg.png" group-title="CANAIS FILMES",Star Channel
+https://super-cdn.link/starchannel/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" group-title="CANAIS FILMES",Studio Universal
+https://super-cdn.link/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM
+https://super-cdn.link/tcm/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM¹
+https://origin-itabaiana-01.ittv.com.br/TCM/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
 
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
 
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
 
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
 
 
 
@@ -168,7 +190,7 @@ https://super-cdn.link/fx/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO
-
+https://super-cdn.link/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANAIS HBO",HBO 2
 https://super-cdn.link/hbo2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO Family
@@ -182,7 +204,7 @@ https://super-cdn.link/hboxtreme/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="CANAIS HBO",HBO Pop
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature
-
+https://super-cdn.link/hbosignature/tracks-v1a1/mono.m3u8
 
 
 
