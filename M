@@ -1,0 +1,722 @@
+#EXTM3U
+
+https://super-cdn.link/aaaa/index.m3u8
+https://new.m3u8.one/aaa/index.m3u8
+https://origin-itabaiana-01.ittv.com.br/AAA/index.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 1
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDMxNSwiaWF0IjoxNzM5MTg3OTE1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjAxL3BsYXlsaXN0Lm0zdTgifQ.Sg8VDi6grCOfp8Ah22uhx7QaYKNH7tBBlI4FalqVSd0fqeTFF-zOoav2AE6lUIYRJZctkoA44IRgLAUEw2VnZPUCDc5jUTU1CNpJB1Dk0rZ-quilszwgUdfuacy1FL5nrHvfzVUohtPQG6rnH51U0MvIqC1owPMW8RXUQLnTpZt5zzyqZM8NTDnTeqq9bae7ht3xmT3MUP3sRkGVClUREQPb8qsagVT70YbDXNhZiByZW4jsuDHQrZCMabqskI61YLZy0UUODx6iIu3p2tk5o5RH2I3T10u4Myr7ts4pkzk38zEwpqPBd7j5Lbyd-OaMQRPNtW3INrS5JigQ_eP77w/nu/f(bMin=2000)/bbb01/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 2
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDQzNCwiaWF0IjoxNzM5MTg4MDM0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjExL3BsYXlsaXN0Lm0zdTgifQ.NMuZqOTHWsdDlRKrW_JvrFRlKrcXK4dTXx06y4m_RWmyEIVBQwglOW5oKl7dgdEmvuGOccOQvNVbIcfvgGTg_PfhZ4DPfZjElQQxscBacRFZFlRaFr93KYZz9iB1HKCCSYvnvl7mefrrZIVvfaW5znXsIKBYQBPBupSCSQU2TvWO1hFpknrBBeMTyU2JoFEW1ptVwUyKDprxVvQjNkyOk5mUPPnVoCEBl7wTsuvha5UC1Ui5005xUWBrsrGgcfy_5K1HjwAz_khSn5VTsw-5vqyNNpmxciboUuQP1X8AU431vVA_wSvAHNBSIA7wHaTJUFixtNCId80KBcfdQCWKQQ/nu/f(bMin=2000)/bbb11/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB MOSAICO
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDQ2NywiaWF0IjoxNzM5MTg4MDY3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjEyL3BsYXlsaXN0Lm0zdTgifQ.Us_ox7GjJt4dyb11uzA3UtP1yaXZ69Tk35EzDlmvjsn6U320MhO7Eg4A0tPRKxWMv7luaXkm5_Vf66uoFRucSHXSAnTitE-Rl5v0Yg8mJszFzoS3wPGET2kTgYYJlVrslb_VKsDUy-6Xqv5nfOoU1d6fOMs4Y-bs5K_pC8YVv47KVFv57XOYgMP9zSDAY1u8yBzUIOLQyk7IIU_MnSmh_A7zGwprG_AO_RkhJMjT579zVDBhOIB6c6vZRf_CwsjATZyyWIorgR-uiJriC3MOtNpiJMzgzTWKwSbGsse0Ut3VX31oEfvKySTNLVDE_qY01I-YbpQIKoi4QWUpkz_3qA/nu/f(bMin=2000)/bbb12/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB SALA
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDYzMywiaWF0IjoxNzM5MTg4MjMzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWF4PTIyNjI5NzYsaGxzPTMsaT0yKS9iYmIwNS9wbGF5bGlzdC5tM3U4In0.Xef4Ln4K5cXldhBoBZQCp9tlBIjAMU2KXze-VTbgYzO4Ddx5Fgy7Re1N-eFh8kE6OqnActiLWvVX76O8DaXN1E81YhHCe3qoeiGaLkaS9KWeZhxLWqHi0inDpH2Ekjss-Wcy_1D9SXnF9J1kdS56gmsuS4nbUN1OyHaOiXy-WtBnucpwen4hrd_2He_aqbIwlpdnh_xuSeJxyILjkvvdOyT8gcSypNOp4baaR-WLiyU-Sbevftn03_OgIpGI87f4RxmQxTUXdptGKEQqEHalFKx8439_1cXulfLvjfASve1aKGsHHReA5q-BQf7PhEjr6wtArVuQR-lbVeD70SumAg/nu/f(bMax=2262976,hls=3,i=2)/bbb05/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB COZINHA
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDQ4MSwiaWF0IjoxNzM5MTg4MDgxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjEwL3BsYXlsaXN0Lm0zdTgifQ.cpKU2zriBHc4J6GTRqCKWjhB98TnGvoZVVfmKjebQ96mBlPJ9zYN14B_pMg0mAhFENaQnmDHXNqK6FcXsf4v5vsOTsukltSI_y4SAzXwHeuJLXUfGN5GhOEVTZyNCJWwt5mYwu9QT5dgEr8mWBMv7QiVUV4fbMh0PA-VNGPMQyxvBykhqmtPDUcYRRri6QVHbJoPDU51WK6-iye7vf5WQzPkl6yY5Mah_O0ZrwkzMLk-ovrc3qEWL7LEWP_TpVXip62QpQyVFmYt0cOL58CelXCstSuTVuDrr-4pRW683md1SrY4jgE7MsEtorZIajxlJhPKUKTqIoHg5rDwoQxN9A/nu/f(bMin=2000)/bbb10/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB ACADEMIA
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDY3NiwiaWF0IjoxNzM5MTg4Mjc2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWF4PTIyNjI5NzYsaGxzPTMsaT0yKS9iYmIwOS9wbGF5bGlzdC5tM3U4In0.Fujnul0rFUu0yrSPVCwGO70gUn0HuUgNmqHL727W7Omfehc5HtrjeIOWwKRwOG6CA14qqc5poKysu_zuWEV_OpoqNME56rKIK8-K30_tIPJCngssgIHFuv8cSLT12gGSkmQ99KL7J5o18C9xijGm6T2TnmPQDFPVDffFF5AjsWk6SKehcEEdNIRigYIx2lmYbwZbDZdMo_3pzdSDbz9kA9w9Es1ZC8OZcrwnL7bFUbG_-TLOk5b87ibBqUSU4eitmNA029DaR9J4vu_aGHunvU-uty9Uggi-TpEDxc1KOCPmv1LlKOptPMF6NDLuK3gZyY2VVBHqdPbGJpETEpG3Xw/nu/f(bMax=2262976,hls=3,i=2)/bbb09/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB PISCINA
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDY2MSwiaWF0IjoxNzM5MTg4MjYxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjA2L3BsYXlsaXN0Lm0zdTgifQ.kV9uHiazR40NeqeSBSqEIdzn3orZBvAA0jF7XUlLcJdCkKy-Hlh1wbGQJhwEihNMAEtRGo_E7_DnCh0DAi8AGgqUd86fN5kqRiJcOuXqoGSH8MwgEIweWRMVCFIMBVdAQn1s4wUiIr5Rwx51kLOJisCXgQJ90mpnirnSV15VxI7iG1_-4WH0THFv9yELwZRQggWwxj5-tHzHc35xoVxvfAsuDPkk5odubaQHJVCKAXVdD4_LTvwynZE3KiJrcMgqCmyIzhrNDQBhxt7Yn2ncslsC4X0vUfJJvreFSITWUiHX06StTeXpTNSZV6w4EzEIIg5AOgxeSDbNS2_Cds56Pw/nu/f(bMin=2000)/bbb06/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB ANOS 50
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDUyMCwiaWF0IjoxNzM5MTg4MTIwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjAyL3BsYXlsaXN0Lm0zdTgifQ.Nu1yIkTpYTDGaBBQprIQXaG1xTe7HH1LZpw_jFxDDZo41JTRO8LoZMpE8hb95DzvIiPw56Rm6hix9HRFO9R4EC5iMq1mqV1SZKcxgn8e71Rktjyhf16VMZsm4i896huNAbmyt9imRaUYxBl1a55v72VnxC22NuD46YtPcDsHifcU6sdrq8BmusvKa3KSNXEp14WahjhX-dDKQ2j8XNGbTRMgzLgCp-aLOP-Ei9T3wXjUHO5TObYftz7doCDAbPaHWXs0LUYwQD6Z-P3JAqP11et5x6KwyDtjK9VSmcDZc95gxd3FFpgqevmzQ-xAFioeT3NezCz3PiP_TCWYmrVcYQ/nu/f(bMin=2000)/bbb02/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB PANTENE
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDU5NSwiaWF0IjoxNzM5MTg4MTk1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWF4PTIyNjI5NzYsaGxzPTMsaT0yKS9iYmIwOC9wbGF5bGlzdC5tM3U4In0.bhSnkHvGZuHvx-38Ewyy9nVZgv_Vo4oc8piRrlmfoaLyqpVcd63tNT1srDfad4gDjgxNHMF832jAGHVqdA2mAruwKxjrSM6_e05u8HcHegDi-Nsgj4YLt_WyhQoRVPge0tjRsDRQcDPsLD5qJOXDppJ-17zAfUkQ4Qzpd4wqfopKRNeAUMEOIsWeIXxEbPH_Ay1H3yBWlLYQCm6G471iBdVgtA3d9dELiy0Q5q84lZnITbJkC0A7OILLR5SZx5uu8HfLhPN5cb9laHzmAXW-eUiMaZsZvwmYFoy1CXtjAiLpWpsPPi7l9HKUApAGdavMNgH9WjJrZ5RtkuTHUOVe1w/nu/f(bMax=2262976,hls=3,i=2)/bbb08/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB FANTASIA
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDU3NywiaWF0IjoxNzM5MTg4MTc3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjA0L3BsYXlsaXN0Lm0zdTgifQ.oWtiEu7LFEc94th_j9PwpZj0lXppgDpEIPhLY4_V597cG2leGiI_13LIvVtFfMb-nZ2oISlIaVHebURPoxBlE7aPAvZZs_ttTODHyz3Y7Iq68xJed4vAacyEV1JLl3VKzWnw-6f2Yvv_xd1cW6HwvNVhN0gTyflalhk7TD8gHDz68V5B_Q7kQLX6oYowOCn5SqXB4Oas2CwbXA1LAQXH6RiGAzMR6Xl0aibmZebCtrPIlzwZk15vZeWdrUSQKNViWPNGZt8DMmdhNtxsaqYOSh5tz00fNTPwB2OJUK_Jfib9ktK407q20w0IXorS83OWBr7ZBLvpOBQ0-2POqMMhEQ/nu/f(bMin=2000)/bbb04/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB NORDESTE
+https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDU2MywiaWF0IjoxNzM5MTg4MTYzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjAzL3BsYXlsaXN0Lm0zdTgifQ.fiby1XrNOcwl6Nw4i7gHRMQ7SvNXskKLladA1BmMXLZeLfsdHb_u4yLqR5Q6_A-e_e80MnvSR-ltq8vqxIvNRchcR8Yme7PE9pH6UIO-9_x-RcLh27akUIgstGkhmHI273Ks3H669zCpQuwUDAiIPB2r1l09wvlUS4YJW9x3026wfYEUPB_WbRNaoIp-NfliuQEYRmkwU0EHckLgQgSxTu0jNUlP1JMJmldnS-66h4vv8E2bIL-Pge0XOLKwUaXXC8iKU2kQlKo9mJDulUQBdz3tjRhAdOvRbSEZ0NSwkJdyLRnx_2qMT76L5hsVrgHXFgwq83eHf70-hLvb08nS7A/nu/f(bMin=2000)/bbb03/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB NORDESTE¹
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv2
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv3
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo RJ
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo SP
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo PA
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES
+https://new.m3u8.one/pre1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 2
+https://super-cdn.link/premiere2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 3
+https://super-cdn.link/premiere3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 4
+https://super-cdn.link/premiere4/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 5
+https://super-cdn.link/premiere5/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 6
+https://super-cdn.link/premiere6/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 7
+https://super-cdn.link/premiere7/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 8
+https://super-cdn.link/premiere8/index.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV
+https://super-cdn.link/sportv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV¹
+https://new.m3u8.one/sportv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 2
+https://super-cdn.link/sportv2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 3
+https://super-cdn.link/sportv3/index.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1
+https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1¹
+https://new.m3u8.one/espn/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 5
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 6
+https://super-cdn.link/espn6/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet
+https://super-cdn.link/animalplanet/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet¹
+https://origin-itabaiana-01.ittv.com.br/ANIMAL/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/838_discoverychannel.jpg" group-title="CANAIS DISCOVERY",Discovery Channel
+https://super-cdn.link/discoverychannel/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180824/ava/kisspng-science-channel-logo-discovery-channel-brand-showing-porn-images-for-greek-italian-porn-www-fre-1713949227223.webp" group-title="CANAIS DISCOVERY",Discovery Science
+https://super-cdn.link/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="CANAIS DISCOVERY",Discovery Theater
+https://super-cdn.link/discoverytheater/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hgtv-canada-20127652.logowik.com.webp" group-title="CANAIS DISCOVERY",HGTV
+https://super-cdn.link/hgtv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History
+https://super-cdn.link/history/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History¹
+https://new.m3u8.one/history/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2
+https://super-cdn.link/history2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2¹
+https://new.m3u8.one/history2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-channel3777.logowik.com.webp" group-title="CANAIS DISCOVERY",National Geographic
+https://super-cdn.link/nationalgeographic/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/kDVE26MqzflcGxBzZpp_Ljt5WIrsYaxhK9ufrkzv7l_BwKEW6rqZVO90Ke3ZhktqWSHm4qEOxzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS DISCOVERY",Discovery Home & Health
+https://super-cdn.link/discoveryheh/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery Turbo
+https://super-cdn.link/discoveryturbo/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery World
+https://super-cdn.link/discoveryworld/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/food-network-new7998.jpg" group-title="CANAIS DISCOVERY",Food Network
+https://super-cdn.link/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="CANAIS DISCOVERY",Lifetime
+https://super-cdn.link/lifetime/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tlc1124.logowik.com.webp" group-title="CANAIS DISCOVERY",TLC
+https://super-cdn.link/tlc/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS FILMES",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",SPACE
+https://new.m3u8.one/space/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",SPACE¹
+https://super-cdn.link/space/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",SPACE²
+https://origin-itabaiana-01.ittv.com.br/SPACE/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS FILMES",TNT NOVELAS
+https://super-cdn.link/tntnovelas/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-serie7560.logowik.com.webp" group-title="CANAIS FILMES",TNT SERIES
+https://origin-itabaiana-01.ittv.com.br/TNTSERIES/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT
+https://super-cdn.link/tnt/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT¹
+https://new.m3u8.one/tnt/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT²
+https://origin-itabaiana-01.ittv.com.br/TNT/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CANAIS FILMES",A&E
+https://super-cdn.link/aee/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amc-networks6137.jpg" group-title="CANAIS FILMES",AMC
+https://super-cdn.link/amc/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/axn-20156264.logowik.com.webp" group-title="CANAIS FILMES",AXN
+https://super-cdn.link/axn/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/canal-brasil2284.logowik.com.webp" group-title="CANAIS FILMES",Canal Brasil
+https://super-cdn.link/canalbrasil/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="CANAIS FILMES",Cinemax
+https://super-cdn.link/cinemax/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CANAIS FILMES",Comedy Central
+https://super-cdn.link/comedycentral/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/fx-international-tv4291.jpg" group-title="CANAIS FILMES",FX
+https://super-cdn.link/fx/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANAIS HBO",HBO 2
+https://super-cdn.link/hbo2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO Family
+https://super-cdn.link/hbofamily/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="CANAIS HBO",HBO Xtreme
+https://super-cdn.link/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="CANAIS HBO",HBO Mundi
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1" group-title="CANAIS HBO",HBO+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="CANAIS HBO",HBO Pop
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS ABERTOS",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/redetv9022.logowik.com.webp" group-title="CANAIS ABERTOS",REDETV
+https://super-cdn.link/redetv/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS VARIEDADES",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/multishow-20124940.logowik.com.webp" group-title="CANAIS VARIEDADES",MULTISHOW 1
+https://super-cdn.link/multishow/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/multishow-20124940.logowik.com.webp" group-title="CANAIS VARIEDADES",MULTISHOW 1¹
+https://new.m3u8.one/multishow/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/arte-18591.logowik.com.webp" group-title="CANAIS VARIEDADES",ARTE 1
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/arte-18591.logowik.com.webp" group-title="CANAIS VARIEDADES",ARTE 1¹
+https://super-cdn.link/arte1/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAA" group-title="CANAIS NOTICIAS",AAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN¹
+https://origin-itabaiana-01.ittv.com.br/NHK/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iN2Y4Flb2IdWJIDa5G_vyFHT7s5_K5yFplyFtu3kSNDYv_uJPsSH_isk1EGWaT4YI4q5PL4x-6k=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",AGRO+
+https://origin-itabaiana-01.ittv.com.br/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iN2Y4Flb2IdWJIDa5G_vyFHT7s5_K5yFplyFtu3kSNDYv_uJPsSH_isk1EGWaT4YI4q5PL4x-6k=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",AGRO+ 1¹
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/terra-viva7012.logowik.com.webp" group-title="CANAIS AGRO",TERRA VIVA
+https://origin-itabaiana-01.ittv.com.br/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/terra-viva7012.logowik.com.webp" group-title="CANAIS AGRO",TERRA VIVA¹
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/4JrfaK2Rs-qN-54sJLlG88cWmoxMYYY6nUzKTMmN2bHUV4MxCis6AryL40Aefi6MrHZaY2ovrw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",SUCESSO NO CAMPO
+https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/XP3gJmZRtEottKu8KD9mm3MqUehsvtGFmK5NAyH7F3Nek4LI0P8jy7rFVJPBUfwAeh8" group-title="CANAIS AGRO",AGRO TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQElbkV30Yh4PQ/company-logo_200_200/company-logo_200_200/0/1653930657415?e=2147483647&v=beta&t=7ws08kN9RnmeuHK3L66VV12rYTI60mf5hR4iopqp9yA" group-title="CANAIS AGRO",Agro Plus TV
+https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRysbLuvu0CG5a3nqoor7uhaAb_ObBQ0Avzg&s" group-title="CANAIS AGRO",Nova Tv Agrotour
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="CANAIS AGRO",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f57a9beaaa83cbdce4d9512730333d21.webp" group-title="CANAIS AGRO",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM01
+https://new.m3u8.one/bbb1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM02
+https://new.m3u8.one/bbb2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM03
+https://new.m3u8.one/bbb3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM04
+https://new.m3u8.one/bbb4/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM05
+https://new.m3u8.one/bbb5/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM06
+https://new.m3u8.one/bbb6/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM07
+https://new.m3u8.one/bbb7/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="CANAIS BBB",BBB CAM08
+https://new.m3u8.one/bbb8/index.m3u8
+
+
+
+######################################## FILMES #################################################
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNjN2ZlZDEtNTA0ZC00MDQyLWFjZDEtNjA0ZTU5ZDQzOTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Clube de Swing Fatal (2019)
+https://v01.0img.top/v51/mp4/tt9815588.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUzNDU1NmItNWNmNS00YTI2LTliZmMtNjgxMDNjZGVmMDQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Doutor Gama (2021)
+https://v01.0img.top/v51/mp4/tt9815156.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI5ZmNmMmUtYTc2NS00OTNjLThiNGQtYjRjMDJjYzk3ZWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Perdi Meu Corpo (2019)
+https://v01.0img.top/v51/mp4/tt9806192.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU4ZDM5ZTUtODcwMy00YWZhLWEwZTQtM2E4MDFiYmU4NDk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Pânico nas Alturas (2019)
+https://v01.0img.top/v51/mp4/tt9805504.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUwNzU1OGEtY2QzNS00YTRhLWExMDQtZTNmNmM2NzlmNDJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Psych 2: Lassie está de Volta (2020)
+https://v01.0img.top/v51/mp4/tt9792884.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTczYjg5NDgtMDVkMC00YzE1LWI3YTMtOGY0NGM0YWI4YzY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Conserto de motor pequeno (2021)
+https://v01.0img.top/v51/mp4/tt9789042.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAwMjg4YzQtZDY1Mi00M2Y5LWFmZjMtMGU3OWJmNDM0ODk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Estou Me Guardando para Quando o Carnaval Chegar (2019)
+https://v01.0img.top/v51/mp4/tt9786006.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ1NzU0Y2MtYTBkNS00YjE2LThjOGMtNTdhNTk0MzdlNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",O Despertar das Tartarugas Ninja: O Filme (2022)
+https://v01.0img.top/v51/mp4/tt9784708.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg0ZmFkN2EtYTViMy00ODU5LWE3MGMtMzE3ZWNiOWNkNTRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Barraca do Beijo 2 (2020)
+https://v01.0img.top/v51/mp4/tt9784456.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViYjkzZTUtMDdjNi00MjlmLWEyZmQtMjcyYzI4ODU4NjM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Entre Amores e Cores (2019)
+https://v01.0img.top/v51/mp4/tt9783876.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VkZjczZjItYWI1ZS00NDU0LWE4NDItMzczNzc5ZDJkNTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Spiderhead (2022)
+https://v01.0img.top/v51/mp4/tt9783600.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRiMTc3NjYtMDI4OS00YjAwLTg1OWYtZTc1MzdmODUwZDlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Enquanto Estivermos Juntos (2020)
+https://v01.0img.top/v51/mp4/tt9779516.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ3YzFiZTItZTg1NC00ZjEyLTk4YTAtOTIwNDliZmM2OTI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Uma Missão de Fé (2020)
+https://v01.0img.top/v51/mp4/tt9779380.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI4ZWI3NmQtMmZmYy00NTIyLThjYWMtYjI5ZWQ5MDFhYzk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",O Segredo do Lago (2020)
+https://v01.0img.top/v51/mp4/tt9778348.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk3MWZkMWEtYzgxMy00MWNmLTg1NTgtNTIyZTFkMGM0MmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Guerra do Amanhã (2021)
+https://v01.0img.top/v51/mp4/tt9777666.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRiNTRlZTQtMzgyNC00ZDE5LTgxZTQtZGIwYjMwZjIwZjIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Batman vs. As Tartarugas Ninjas (2019)
+https://v01.0img.top/v51/mp4/tt9775360.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ4NDNkNDYtNmFlMi00ZGQ0LWJlMTYtYzMzOWQ0MGFhNGRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Mistério das Palavras Cruzadas: A Queda Fatal (2021)
+https://v01.0img.top/v51/mp4/tt9759902.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI4OGE5OTQtMWIzNC00ZmVjLWExYWItOThmNWNjM2FiNjg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Os 23: Prisioneiros no Iraque (2019)
+https://v01.0img.top/v51/mp4/tt9755608.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUxMDY4MzItYjliYy00ZDkzLTg3Y2MtODMxN2EwMDM2OTViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Assalto ao Banco da Espanha (2021)
+https://v01.0img.top/v51/mp4/tt9742794.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2OGY2NGMtMTlkYS00ZTg1LWJkMDktMDYyZGViZmExMGM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Vozes do Passado (2020)
+https://v01.0img.top/v51/mp4/tt9741526.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BNGI3MTkzM2MtYzk4Ny00ZjIyLTg1M2YtMzVlOThjNzU2MjM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Rogue Agent (2022)
+https://v01.0img.top/v51/mp4/tt9731386.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJjMmQ1ZjItZDI2OC00NDljLTk3ZTUtZmEyYzEyMWEyYzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Por Uma Vida Melhor (2019)
+https://v01.0img.top/v51/mp4/tt9725830.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.fstatic.com/IlAeCmmFrJvzCX-hsptbFN65sL8=/322x478/smart/filters:format(webp)/media/movies/covers/2020/07/MV5BZjMwMDU4YWQtMTE3MC00ZGRhLTlmN2EtMTY5N2QwMGIyZWUwXkEyXkFqcGdeQX_Y2qU0U0.jpg" group-title="FILME",Um Por Todos (2020)
+https://v01.0img.top/v51/mp4/tt9717498.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNkZWJhNWQtY2ViYS00MzdmLTlhOTMtZDAzNDM5MDEwMjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Coração de Dragão: Vingança (2020)
+https://v01.0img.top/v51/mp4/tt9711106.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIwZmRkMmQtNWNkNi00MTI3LTkwMmMtYWZhYTcxYTdkYTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Rogue Cell (2019)
+https://v01.0img.top/v51/mp4/tt9697340.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY3MDYwZmQtZWQ3Mi00NDM4LTlhYWQtZGI5M2EzNDljYmNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Agentes Vanguard (2020)
+https://v01.0img.top/v51/mp4/tt9695722.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg" group-title="FILME",Aranhas de Papel (2021)
+https://v01.0img.top/v51/mp4/tt9690328.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg5Y2ZlZTUtYjkyNS00MTA4LTgyMzctYTBmMGVjZDRmMWI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Herói de Dois Mundos (2021)
+https://v01.0img.top/v51/mp4/tt9685342.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIyODU4NGYtOGRlOC00NjgxLTg5NWUtNDZjN2FhZDgzOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Fantasmas de Sugar Land (2019)
+https://v01.0img.top/v51/mp4/tt9671828.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFjZGJlMGYtNjVhMi00MzdmLTg5MzMtNDgyY2VkMmU1NGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Zoombies 2 (2019)
+https://v01.0img.top/v51/mp4/tt9670282.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3MzNiZTEtMjMzNC00NmQ2LWI0MGQtMTZiNDg1YTlkYmQ5XkEyXkFqcGc@._V1_.jpg" group-title="FILME",Cidade das Sombras
+https://v01.0img.top/v38/mp4/tt0118929.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjVhOTQyYmUtODMzNS00OTc5LTk5NzUtYTYwMzVlOWM2MTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",MaXXXine (2024)
+https://v01.0img.top/v51/mp4/tt22048412.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzNmIxNmUtNTVjNi00ZjM3LTlkYTktYTc4Njg2NmYyYmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",X: A Marca da Morte (2022)
+https://brbeast.com/cdn/hls/fefcca09b1291701bedb452ef7b5f352/master.txt
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0NDk4YTAtOWZiZi00MjE4LTkyYjItMDUzZWM2YTU5Mjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Pearl (2022)
+https://brbeast.com/cdn/hls/07f06c2dbe467e1b2b2ae7a154bdc430/master.txt
+#EXTINF:-1 tvg-name="Apartamento 7A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFiZGQzZjUtN2ZjZi00ZGQ0LWI4YWMtNDM5MGFjZTRmZjM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Apartamento 7A
+https://pixeldrain.com/api/file/DEZSudHA
+#EXTINF:-1 tvg-name="O Exorcismo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUyNTdhMzQtYzZjOC00YWEwLWIyYWEtNmI1M2YzZWFjNmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",O Exorcismo
+https://pixeldrain.com/api/file/2wxEbQdh
+#EXTINF:-1 tvg-name="Um Lugar Silencioso: Dia Um" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY0Y2ZlMmEtYWI1OS00ZTNkLTkwNDUtNjZjMWU5YzJiMmFiXkEyXkFqcGc@._V1" group-title="FILME",Um Lugar Silencioso: Dia Um (2024)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ4YjkzYjUtZWZkYi00M2FmLWI0ZjUtNGJiOGQ4N2M0MjJiXkEyXkFqcGc@._V1" group-title="FILME",Um Lugar Silencioso (2018)
+https://v01.0img.top/v48/mp4/tt6644200.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1" group-title="FILME",Um Lugar Silencioso - Parte II (2021)
+https://v01.0img.top/v50/mp4/tt8332922.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjMWRlMTMtNjIyZS00OGUwLTllYTMtZWJlOTg4ZTY3NGY0XkEyXkFqcGc@._V1" group-title="FILME",Longlegs - Vínculo Mortal (2024)
+https://v01.0img.top/v51/mp4/tt23468450.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQzMDUtOTE5OS00N2ZiLTgzYWQtMzFmNDY5OGQ5YjFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Sorria (2022)
+https://v01.0img.top/v51/mp4/tt15474916.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEwY2Q0ZDItN2FiMy00MjY1LWI0NWYtYzkzNTU2MjRlYjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Sorria 2 (2024)
+https://v01.0img.top/v51/mp4/tt29268110.mp4
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo (1984)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA0OTk4OWQtYWZlYy00Y2M4LWFmNzctZmU4OWVkMTI1NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwMmQxZjUtNDFkYi00MjU3LThhNmYtMmU4YzgyMmYwZWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FlMDZlNjUtM2QyYS00Y2YyLWI3ZjEtZDdjZWM5ZTg0MDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdjZjE4ZTItNzljNC00ZDhmLTg4MDEtOTk2MzE4NDQwYzU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczMjA3ZDYtZWMyNS00OWFkLThmMzEtNWQxZmZhNzVmNmQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Hora do Pesadelo (2010)
+https://v01.0img.top/v41/mp4/tt1179056.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY0YWMwYmYtNDAyMC00ZGQ4LTlhOTAtN2Q5MmRiYWFiZjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",O Mediador (2020)
+https://v01.0img.top/v51/mp4/tt9660688.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM3OTFmOGMtMTY4Yi00MmY1LWJjZDUtZjE2ZTg1NDAzZGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Centro de Trauma (2019)
+https://v01.0img.top/v51/mp4/tt9625664.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwNDZjMzctOGQwZC00NTdkLTk2MTAtYmMzNDYxNmI5OTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Borderlands: O Destino do Universo Está em Jogo
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA1ODY1ZTgtZGE3Zi00YmU3LTk5MmYtNWQ0NGQzMzVhYmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Venom: A Última Rodada (2024)
+https://v01.0img.top/v51/mp4/tt16366836.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4MmFiZjItOGMzMS00MDU1LTk0ODYtOTk1MWMzZWZjMTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Venom: Tempo de Carnificina (2021)
+https://v01.0img.top/v49/mp4/tt7097896.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFmOWQzNjktNmQ5Yy00N2VhLThlYjEtZTAyMzg0Yjg2NjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Venom (2018)
+https://v01.0img.top/v42/mp4/tt1270797.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVhNjUwYjMtNTYxMC00Mjg5LThhNzgtMmNmMDNlMWMxOWMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Venom (2005)
+https://v01.0img.top/v40/mp4/tt0428251.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY3YzZjMjctNzJlNy00MzEzLTkwOTUtOTQwY2E1NDZkY2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Hellboy e o Homem Torto (2024)
+https://v01.0img.top/v51/mp4/tt26757462.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMwYjQ4MWUtNTk4Zi00YTM0LTkzNzctMjAwNDQ4NzUwYmZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Hellboy II: O Exército Dourado (2008)
+https://v01.0img.top/v39/mp4/tt0411477.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4NDUyMTMtOGU1OS00Nzc2LWEzMTItMjQ1NWVkNDVmZDgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Hellboy (2004)
+https://v01.0img.top/v38/mp4/tt0167190.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMwZmVkMjQtMTE3OC00Yjg4LTk5YmYtOWYwYjU2Zjg1ZTBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Transformers: O Início (2024)
+https://v01.0img.top/v51/mp4/tt8864596.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkwZmE0NDYtZmE2Yi00YjkwLWEyOWQtOWRlMjY2MmRkYWJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",A Prima Sofia (2019)
+https://v01.0img.top/v51/mp4/tt9632590.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",King Richard: Criando Campeãs (2021)
+https://v01.0img.top/v51/mp4/tt9620288.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiMTI5YjMtMzA2OC00ZDQ0LTk1NmYtNjkzMzE1NmZkYjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",O Trem Italiano da Felicidade (2024)
+https://v01.0img.top/v51/mp4/tt29242846.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ2ZTUyODQtMjRiNi00NGI1LTk0YjQtMmVhZDNlZmQzODQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Napoleão (2023)
+https://v01.0img.top/v51/mp4/tt13287846.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjliYWUwMTQtODliYy00YmZmLWIwYWQtNWYwYWE4MzQ0OWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",American Son (2019)
+https://v01.0img.top/v51/mp4/tt9664078.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/The_Perfect_Man.jpg" group-title="FILME",Paixao de Aluguel
+https://pixeldrain.com/api/file/cTNrAqLe
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThkMGFjMTctMDUxNi00MDVhLWFjYWMtMmIzNTRiZGQwODk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Viajantes - Instinto e Desejo (2021)
+https://v01.0img.top/v51/mp4/tt9664108.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFlZDRhYmYtNzNkOC00NTJjLWIyOTYtMDBiZjdjNmQyNzU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Avatar: O Caminho da Água (2022)
+https://v01.0img.top/v51/mp4/tt1630029.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwMmIyNWQtNWEyZS00M2M3LTgxZGEtMDlmMGIzZGM4NWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Planeta dos Macacos: O Reinado (2024)
+https://v01.0img.top/v51/mp4/tt11389872.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBmOWI0OWYtOTQ1ZS00OWM4LWE3MTAtZjFhODkwNzQxZDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Hellboy: A Espada das Tempestades (2006)
+https://v01.0img.top/v40/mp4/tt0810895.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://bocadoinferno.com.br/wp-content/uploads/2019/12/Hellboy-2007-4.jpg" group-title="FILME",Hellboy: O Espírito de Fantasma (2007)
+https://v01.0img.top/v40/mp4/tt0817910.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BNDI4ZWI3NmQtMmZmYy00NTIyLThjYWMtYjI5ZWQ5MDFhYzk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME", Segredo do Lago (2020)
+https://v01.0img.top/v51/mp4/tt9639470.mp4
+
+
+
+
+
+#################################################### SERIES ####################################################
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E01
+https://t01.0img.top/t11/mp4/tt27517632/s1e1.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E02
+https://t01.0img.top/t11/mp4/tt27517632/s1e2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E03
+https://t01.0img.top/t11/mp4/tt27517632/s1e3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E04
+https://t01.0img.top/t11/mp4/tt27517632/s1e4.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E05
+https://t01.0img.top/t11/mp4/tt27517632/s1e5.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E06
+https://t01.0img.top/t11/mp4/tt27517632/s1e6.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E07
+https://t01.0img.top/t11/mp4/tt27517632/s1e7.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E08
+https://t01.0img.top/t11/mp4/tt27517632/s1e8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E09
+https://t01.0img.top/t11/mp4/tt27517632/s1e9.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhMWVhODItNThiYS00NGY1LWE4YmMtMjgxNWZjZDBkN2UxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Amor da Minha Vida", S01E10
+https://t01.0img.top/t11/mp4/tt27517632/s1e10.mp4
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E01
+https://t01.0img.top/t05/mp4/tt9055008/s1e1.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E02
+https://t01.0img.top/t05/mp4/tt9055008/s1e2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E03
+https://t01.0img.top/t05/mp4/tt9055008/s1e3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E0
+https://t01.0img.top/t05/mp4/tt9055008/s1e4.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E05
+https://t01.0img.top/t05/mp4/tt9055008/s1e5.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E06
+https://t01.0img.top/t05/mp4/tt9055008/s1e6.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E07
+https://t01.0img.top/t05/mp4/tt9055008/s1e7.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E08
+https://t01.0img.top/t05/mp4/tt9055008/s1e8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E09
+https://t01.0img.top/t05/mp4/tt9055008/s1e9.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E10
+https://t01.0img.top/t05/mp4/tt9055008/s1e10.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E11
+https://t01.0img.top/t05/mp4/tt9055008/s1e11.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E12
+https://t01.0img.top/t05/mp4/tt9055008/s1e12.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S01E13
+https://t01.0img.top/t05/mp4/tt9055008/s1e13.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E01
+https://t01.0img.top/t05/mp4/tt9055008/s2e1.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E02
+https://t01.0img.top/t05/mp4/tt9055008/s2e2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E03
+https://t01.0img.top/t05/mp4/tt9055008/s2e3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E04
+https://t01.0img.top/t05/mp4/tt9055008/s2e4.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E05
+https://t01.0img.top/t05/mp4/tt9055008/s2e5.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E06
+https://t01.0img.top/t05/mp4/tt9055008/s2e6.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E07
+https://t01.0img.top/t05/mp4/tt9055008/s2e7.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E08
+https://t01.0img.top/t05/mp4/tt9055008/s2e8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E09
+https://t01.0img.top/t05/mp4/tt9055008/s2e9.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E10
+https://t01.0img.top/t05/mp4/tt9055008/s2e10.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E11
+https://t01.0img.top/t05/mp4/tt9055008/s2e11.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E12
+https://t01.0img.top/t05/mp4/tt9055008/s2e12.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S02E13
+https://t01.0img.top/t05/mp4/tt9055008/s2e13.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E01
+https://t01.0img.top/t05/mp4/tt9055008/s3e1.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E02
+https://t01.0img.top/t05/mp4/tt9055008/s3e2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E03
+https://t01.0img.top/t05/mp4/tt9055008/s3e3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E04
+https://t01.0img.top/t05/mp4/tt9055008/s3e4.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E05
+https://t01.0img.top/t05/mp4/tt9055008/s3e5.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E06
+https://t01.0img.top/t05/mp4/tt9055008/s3e6.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E07
+https://t01.0img.top/t05/mp4/tt9055008/s3e7.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E08
+https://t01.0img.top/t05/mp4/tt9055008/s3e8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E09
+https://t01.0img.top/t05/mp4/tt9055008/s3e9.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S03E10
+https://t01.0img.top/t05/mp4/tt9055008/s3e10.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E01
+https://t01.0img.top/t05/mp4/tt9055008/s4e1.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E02
+https://t01.0img.top/t05/mp4/tt9055008/s4e2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E03
+https://t01.0img.top/t05/mp4/tt9055008/s4e3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E04
+https://t01.0img.top/t05/mp4/tt9055008/s4e4.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E05
+https://t01.0img.top/t05/mp4/tt9055008/s4e5.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E06
+https://t01.0img.top/t05/mp4/tt9055008/s4e6.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E07
+https://t01.0img.top/t05/mp4/tt9055008/s4e7.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E08
+https://t01.0img.top/t05/mp4/tt9055008/s4e8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E09
+https://t01.0img.top/t05/mp4/tt9055008/s4e9.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E10
+https://t01.0img.top/t05/mp4/tt9055008/s4e10.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E11
+https://t01.0img.top/t05/mp4/tt9055008/s4e11.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E12
+https://t01.0img.top/t05/mp4/tt9055008/s4e12.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E13
+https://t01.0img.top/t05/mp4/tt9055008/s4e13.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZjYzZmNzktZWU0My00MWRhLWJhZGEtYWRiNjA1YjA1MGMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Evil: Contatos Sobrenaturais", S04E14
+https://t01.0img.top/t05/mp4/tt9055008/s4e14.mp4
+
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E01
+https://t01.0img.top/t09/mp4/tt0934814/s1e1.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E02
+https://t01.0img.top/t09/mp4/tt0934814/s1e2.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E03
+https://t01.0img.top/t09/mp4/tt0934814/s1e3.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E04
+https://t01.0img.top/t09/mp4/tt0934814/s1e4.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E05
+https://t01.0img.top/t09/mp4/tt0934814/s1e5.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E06
+https://t01.0img.top/t09/mp4/tt0934814/s1e6.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E07
+https://t01.0img.top/t09/mp4/tt0934814/s1e7.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E08
+https://t01.0img.top/t09/mp4/tt0934814/s1e8.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E09
+https://t01.0img.top/t09/mp4/tt0934814/s1e9.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E10
+https://t01.0img.top/t09/mp4/tt0934814/s1e10.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E11
+https://t01.0img.top/t09/mp4/tt0934814/s1e11.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E12
+https://t01.0img.top/t09/mp4/tt0934814/s1e12.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S01E13
+https://t01.0img.top/t09/mp4/tt0934814/s1e13.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E01
+https://t01.0img.top/t09/mp4/tt0934814/s2e1.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E02
+https://t01.0img.top/t09/mp4/tt0934814/s2e2.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E03
+https://t01.0img.top/t09/mp4/tt0934814/s2e3.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E04
+https://t01.0img.top/t09/mp4/tt0934814/s2e4.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E05
+https://t01.0img.top/t09/mp4/tt0934814/s2e5.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E06
+https://t01.0img.top/t09/mp4/tt0934814/s2e6.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E07
+https://t01.0img.top/t09/mp4/tt0934814/s2e7.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E08
+https://t01.0img.top/t09/mp4/tt0934814/s2e8.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E09
+https://t01.0img.top/t09/mp4/tt0934814/s2e9.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E10
+https://t01.0img.top/t09/mp4/tt0934814/s2e10.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E11
+https://t01.0img.top/t09/mp4/tt0934814/s2e11.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E12
+https://t01.0img.top/t09/mp4/tt0934814/s2e12.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E13
+https://t01.0img.top/t09/mp4/tt0934814/s2e13.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E14
+https://t01.0img.top/t09/mp4/tt0934814/s2e14.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E15
+https://t01.0img.top/t09/mp4/tt0934814/s2e15.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E16
+https://t01.0img.top/t09/mp4/tt0934814/s2e16.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E17
+https://t01.0img.top/t09/mp4/tt0934814/s2e17.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E18
+https://t01.0img.top/t09/mp4/tt0934814/s2e18.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E19
+https://t01.0img.top/t09/mp4/tt0934814/s2e19.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E20
+https://t01.0img.top/t09/mp4/tt0934814/s2e20.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E21
+https://t01.0img.top/t09/mp4/tt0934814/s2e21.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S02E22
+https://t01.0img.top/t09/mp4/tt0934814/s2e22.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E01
+https://t01.0img.top/t09/mp4/tt0934814/s3e1.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E02
+https://t01.0img.top/t09/mp4/tt0934814/s3e2.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E03
+https://t01.0img.top/t09/mp4/tt0934814/s3e3.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E04
+https://t01.0img.top/t09/mp4/tt0934814/s3e4.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E05
+https://t01.0img.top/t09/mp4/tt0934814/s3e5.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E06
+https://t01.0img.top/t09/mp4/tt0934814/s3e6.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E07
+https://t01.0img.top/t09/mp4/tt0934814/s3e7.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E08
+https://t01.0img.top/t09/mp4/tt0934814/s3e8.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E09
+https://t01.0img.top/t09/mp4/tt0934814/s3e9.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E10
+https://t01.0img.top/t09/mp4/tt0934814/s3e10.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E11
+https://t01.0img.top/t09/mp4/tt0934814/s3e11.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E12
+https://t01.0img.top/t09/mp4/tt0934814/s3e12.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E13
+https://t01.0img.top/t09/mp4/tt0934814/s3e13.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E14
+https://t01.0img.top/t09/mp4/tt0934814/s3e14.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E15
+https://t01.0img.top/t09/mp4/tt0934814/s3e15.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E16
+https://t01.0img.top/t09/mp4/tt0934814/s3e16.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E17
+https://t01.0img.top/t09/mp4/tt0934814/s3e17.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E18
+https://t01.0img.top/t09/mp4/tt0934814/s3e18.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S03E19
+https://t01.0img.top/t09/mp4/tt0934814/s3e19.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E01
+https://t01.0img.top/t09/mp4/tt0934814/s4e1.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E02
+https://t01.0img.top/t09/mp4/tt0934814/s4e2.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E03
+https://t01.0img.top/t09/mp4/tt0934814/s4e3.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E04
+https://t01.0img.top/t09/mp4/tt0934814/s4e4.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E05
+https://t01.0img.top/t09/mp4/tt0934814/s4e5.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E06
+https://t01.0img.top/t09/mp4/tt0934814/s4e6.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E07
+https://t01.0img.top/t09/mp4/tt0934814/s4e7.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E08
+https://t01.0img.top/t09/mp4/tt0934814/s4e8.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E09
+https://t01.0img.top/t09/mp4/tt0934814/s4e9.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E10
+https://t01.0img.top/t09/mp4/tt0934814/s4e10.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E11
+https://t01.0img.top/t09/mp4/tt0934814/s4e11.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E12
+https://t01.0img.top/t09/mp4/tt0934814/s4e12.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E13
+https://t01.0img.top/t09/mp4/tt0934814/s4e13.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E14
+https://t01.0img.top/t09/mp4/tt0934814/s4e14.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E15
+https://t01.0img.top/t09/mp4/tt0934814/s4e15.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E16
+https://t01.0img.top/t09/mp4/tt0934814/s4e16.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E17
+https://t01.0img.top/t09/mp4/tt0934814/s4e17.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E18
+https://t01.0img.top/t09/mp4/tt0934814/s4e18.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E19
+https://t01.0img.top/t09/mp4/tt0934814/s4e19.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E20
+https://t01.0img.top/t09/mp4/tt0934814/s4e20.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E21
+https://t01.0img.top/t09/mp4/tt0934814/s4e21.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E22
+https://t01.0img.top/t09/mp4/tt0934814/s4e22.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E23
+https://t01.0img.top/t09/mp4/tt0934814/s4e23.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S04E24
+https://t01.0img.top/t09/mp4/tt0934814/s4e24.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E01
+https://t01.0img.top/t09/mp4/tt0934814/s5e1.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E02
+https://t01.0img.top/t09/mp4/tt0934814/s5e2.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E03
+https://t01.0img.top/t09/mp4/tt0934814/s5e3.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E04
+https://t01.0img.top/t09/mp4/tt0934814/s5e4.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E05
+https://t01.0img.top/t09/mp4/tt0934814/s5e5.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E06
+https://t01.0img.top/t09/mp4/tt0934814/s5e6.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E07
+https://t01.0img.top/t09/mp4/tt0934814/s5e7.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E08
+https://t01.0img.top/t09/mp4/tt0934814/s5e8.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E09
+https://t01.0img.top/t09/mp4/tt0934814/s5e9.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E10
+https://t01.0img.top/t09/mp4/tt0934814/s5e10.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E11
+https://t01.0img.top/t09/mp4/tt0934814/s5e11.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E12
+https://t01.0img.top/t09/mp4/tt0934814/s5e12.mp4
+#EXTINF:-1 tvg-name="Chuck" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Chuck",Chuck S05E13
+https://t01.0img.top/t09/mp4/tt0934814/s5e13.mp4
