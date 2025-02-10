@@ -71,6 +71,16 @@ https://super-cdn.link/sportv2/index.m3u8
 https://super-cdn.link/sportv3/index.m3u8
 
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 1
+https://super-cdn.link/primevideo/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
+https://super-cdn.link/primevideo2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
+https://super-cdn.link/primevideo3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
+https://super-cdn.link/primevideo4/index.m3u8
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1
 https://super-cdn.link/espn/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1¹
