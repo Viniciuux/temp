@@ -417,8 +417,12 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 
 ######################################## FILMES #################################################
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="AAAAA" tvg-logo="aaaaaaa" group-title="FILME", AAAAA
 
 
+
+#EXTINF:-1 tvg-id="tt14513804" tvg-name="Capitão América: Admirável Mundo Novo (2025)" tvg-logo="aaaaaaa" group-title="FILME", Capitão América: Admirável Mundo Novo (2025)
+https://v02.0img.top/v51/mp4/tt14513804.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",Minha Culpa: Londres (2025)
 https://v02.0img.top/v51/mp4/tt32434379.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",Vidas Paralelas (2023)
