@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/TMDB/TVScraper/refs/heads/master/index.html,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 1
@@ -417,12 +417,13 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 
 ######################################## FILMES #################################################
-#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME", AAAAA
 
 
 
+#EXTINF:-1 tvg-id="799766" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/Ar6BzLWcvXKQJ7iH0FvvH7tqQic.jpg" group-title="FILME",Better Man - A História de Robbie Williams (2024)
+https://v02.0img.top/v51/leg/tt14513804.mp4
 #EXTINF:-1 tvg-id="822119" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/h4qan1qdm9bj9Ayu6NYaBvpQ6zS.jpg" group-title="FILME",Capitão América: Admirável Mundo Novo (2025)
-https://v02.0img.top/v51/mp4/tt14513804.mp4
+https://v02.0img.top/v51/leg/tt14260836.mp4
 #EXTINF:-1 tvg-id="1294203" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/q4pDm6ihI5K1VkGt1BHDuFJpNwz.jpg" group-title="FILME",Minha Culpa: Londres (2025)
 https://v02.0img.top/v51/mp4/tt32434379.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",Vidas Paralelas (2023)
@@ -2003,10 +2004,107 @@ https://v02.0img.top/v50/mp4/tt9213932.mp4
 https://v02.0img.top/v50/mp4/tt9214280.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",De Pernas pro Ar 3 (2019)
 https://v02.0img.top/v50/mp4/tt9214310.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",BBBBBBBB
-https://v02.0img.top/v50/mp4/BBBBBB.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="aAAAA" group-title="FILME",BBBBBBBB
-https://v02.0img.top/v50/mp4/BBBBBB.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME",AAAAA
+https://v02.0img.top/v50/mp4/aaaaaaa.mp4
+
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNjN2ZlZDEtNTA0ZC00MDQyLWFjZDEtNjA0ZTU5ZDQzOTZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="FILME",Clube de Swing Fatal (2019)
 https://v02.0img.top/v51/mp4/tt9815588.mp4
