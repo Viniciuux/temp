@@ -1,107 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/TMDB/TVScraper/refs/heads/master/index.html,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
-import requests
-import re
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/Viniciuux/guid/refs/heads/main/filme.xml,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
-API_KEY = "6b7bad8a761c4750c8d753c9b123a450"  # Substitua pela sua chave da TMDb
-M3U_ORIGINAL = "https://raw.githubusercontent.com/Viniciuux/temp/refs/heads/main/M.m3u"  # Nome do arquivo M3U original
-M3U_NOVA = "nova_lista.m3u"  # Nome do arquivo M3U atualizado
-
-def buscar_filme_tmdb(nome_filme):
-    """Busca informações do filme na API do TMDb."""
-    url = f"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={nome_filme}"
-    resposta = requests.get(url)
-    dados = resposta.json()
-    
-    if dados["results"]:
-        filme = dados["results"][0]  # Pega o primeiro resultado
-        return {
-            "titulo": filme["title"],
-            "ano": filme["release_date"][:4] if filme["release_date"] else "Desconhecido",
-            "sinopse": filme["overview"],
-            "poster": f"https://image.tmdb.org/t/p/w500{filme['poster_path']}" if filme["poster_path"] else ""
-        }
-    return None
-
-def processar_lista_m3u():
-    """Lê a lista M3U, busca dados no TMDb e gera uma nova lista formatada."""
-    with open(M3U_ORIGINAL, "r", encoding="utf-8") as f:
-        linhas = f.readlines()
-    
-    nova_lista = ["#EXTM3U\n"]
-    
-    for i in range(len(linhas)):
-        if linhas[i].startswith("#EXTINF"):
-            match = re.search(r",(.+)$", linhas[i])
-            if match:
-                nome_filme = match.group(1)
-                info = buscar_filme_tmdb(nome_filme)
-                
-                if info:
-                    linha_extinf = f'#EXTINF:-1 tvg-name="{info["titulo"]}" group-title="Filmes" logo="{info["poster"]}",{info["titulo"]} ({info["ano"]})\n'
-                else:
-                    linha_extinf = linhas[i]
-                
-                nova_lista.append(linha_extinf)
-                nova_lista.append(linhas[i + 1])  # URL do filme
-    
-    with open(M3U_NOVA, "w", encoding="utf-8") as f:
-        f.writelines(nova_lista)
-    
-    print(f"Nova lista M3U salva como: {M3U_NOVA}")
-
-# Executar o script
-processar_lista_m3u()
-
-import requests
-import re
-
-API_KEY = "6b7bad8a761c4750c8d753c9b123a450"  # Substitua pela sua chave da TMDb
-TXT_ORIGINAL = "https://raw.githubusercontent.com/Viniciuux/temp/refs/heads/main/M.m3u"  # Nome do arquivo TXT original
-TXT_NOVO = "nova_lista.txt"  # Nome do arquivo TXT atualizado
-
-def buscar_filme_tmdb(nome_filme):
-    """Busca informações do filme na API do TMDb."""
-    url = f"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={nome_filme}"
-    resposta = requests.get(url)
-    dados = resposta.json()
-    
-    if dados["results"]:
-        filme = dados["results"][0]  # Pega o primeiro resultado
-        return {
-            "titulo": filme["title"],
-            "ano": filme["release_date"][:4] if filme["release_date"] else "Desconhecido",
-            "sinopse": filme["overview"],
-            "poster": f"https://image.tmdb.org/t/p/w500{filme['poster_path']}" if filme["poster_path"] else ""
-        }
-    return None
-
-def processar_lista_txt():
-    """Lê a lista TXT, busca dados no TMDb e gera um novo TXT formatado."""
-    with open(TXT_ORIGINAL, "r", encoding="utf-8") as f:
-        linhas = f.readlines()
-    
-    nova_lista = []
-    
-    for linha in linhas:
-        partes = linha.strip().split(" | ")
-        if len(partes) == 2:
-            nome_filme, url_filme = partes
-            info = buscar_filme_tmdb(nome_filme)
-            
-            if info:
-                nova_linha = f'{info["titulo"]} ({info["ano"]}) | {url_filme} | {info["poster"]}\n'
-            else:
-                nova_linha = linha.strip() + "\n"
-            
-            nova_lista.append(nova_linha)
-    
-    with open(TXT_NOVO, "w", encoding="utf-8") as f:
-        f.writelines(nova_lista)
-    
-    print(f"Nova lista TXT salva como: {TXT_NOVO}")
-
-# Executar o script
-processar_lista_txt()
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 1
 https://live-01.edge-wixnet-pas-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS13aXhuZXQtcGFzLW1nLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTI3NDMxNSwiaWF0IjoxNzM5MTg3OTE1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjA3YjNlNTM4LTUyMDEtNDM4Mi04YjI1LWMyZjM4OTcyYjFhZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDApL2JiYjAxL3BsYXlsaXN0Lm0zdTgifQ.Sg8VDi6grCOfp8Ah22uhx7QaYKNH7tBBlI4FalqVSd0fqeTFF-zOoav2AE6lUIYRJZctkoA44IRgLAUEw2VnZPUCDc5jUTU1CNpJB1Dk0rZ-quilszwgUdfuacy1FL5nrHvfzVUohtPQG6rnH51U0MvIqC1owPMW8RXUQLnTpZt5zzyqZM8NTDnTeqq9bae7ht3xmT3MUP3sRkGVClUREQPb8qsagVT70YbDXNhZiByZW4jsuDHQrZCMabqskI61YLZy0UUODx6iIu3p2tk5o5RH2I3T10u4Myr7ts4pkzk38zEwpqPBd7j5Lbyd-OaMQRPNtW3INrS5JigQ_eP77w/nu/f(bMin=2000)/bbb01/playlist.m3u8
@@ -520,8 +418,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES #################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Minha Culpa: Londres (2025)" group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/", Minha Culpa: Londres (2025)
-# Sinopse: Quando a mãe de Noah, Ella, se apaixona pelo muito rico William, as duas se mudam da América para Londres para morar com William e seu filho Nick. Ao chegar, a jovem de 18 anos Noah conhece o bad boy Nick, e há uma atração imediata entre os dois.
+#EXTINF:-1 tvg-id="minha_culpa_londres" tvg-name="Minha Culpa: Londres (2025)" group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/", Minha Culpa: Londres (2025)
 https://v02.0img.top/v51/mp4/tt32434379.mp4
 
 #EXTINF:-1 tvg-id="799766" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/Ar6BzLWcvXKQJ7iH0FvvH7tqQic.jpg" group-title="FILME",Better Man - A História de Robbie Williams (2024)
