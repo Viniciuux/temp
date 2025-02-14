@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 1
@@ -417,11 +417,11 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 
 ######################################## FILMES #################################################
-#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="AAAAA" tvg-logo="aaaaaaa" group-title="FILME", AAAAA
+#EXTINF:-1 tvg-id="TMDBouIMDB" tvg-name="" tvg-logo="aaaaaaa" group-title="FILME", AAAAA
 
 
 
-#EXTINF:-1 tvg-id="822119" tvg-name="Capitão América: Admirável Mundo Novo (2025)" tvg-logo="https://www.themoviedb.org/t/p/w1280/h4qan1qdm9bj9Ayu6NYaBvpQ6zS.jpg" group-title="FILME", Capitão América: Admirável Mundo Novo (2025)
+#EXTINF:-1 tvg-id="822119" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/h4qan1qdm9bj9Ayu6NYaBvpQ6zS.jpg" group-title="FILME",Capitão América: Admirável Mundo Novo (2025)
 https://v02.0img.top/v51/mp4/tt14513804.mp4
 #EXTINF:-1 tvg-id="1294203" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/q4pDm6ihI5K1VkGt1BHDuFJpNwz.jpg" group-title="FILME",Minha Culpa: Londres (2025)
 https://v02.0img.top/v51/mp4/tt32434379.mp4
