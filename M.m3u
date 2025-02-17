@@ -420,6 +420,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 ######################################## FILMES #################################################
 
 
+#EXTINF:-1 tvg-id="1084199" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bjp5zXaIG5tOCtyzUzuf4lsdZub.jpg" group-title="FILME",Acompanhante Perfeita (2025)
+https://v02.0img.top/v51/mp4/tt26584495.mp4
+#EXTINF:-1 tvg-id="658224" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg" group-title="FILME",O Maravilhoso Mágico de Oz - Parte 1 (2024)
+https://v02.0img.top/v51/mp4/tt24218194.mp4
 #EXTINF:-1 tvg-id="tt6334354" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/wTS3dS2DJiMFFgqKDz5fxMTri.jpg" group-title="FILME",O Esquadrão Suicida (2021)
 https://v02.0img.top/v51/mp4/tt6334354.mp4
 #EXTINF:-1 tvg-id="tt31519456" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/y3GXsdVfxIMA5IVQ2KNnBzDi1RM.jpg" group-title="FILME",La Dolce Villa (2025)
