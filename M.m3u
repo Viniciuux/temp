@@ -45,31 +45,31 @@ https://live-as-11-11.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES
 https://new.m3u8.one/pre1/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 2
-https://super-cdn.link/premiere2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 2¹
 https://new.m3u8.one/pre2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 3
-https://super-cdn.link/premiere3/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 3¹
 https://new.m3u8.one/pre3/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 4
-https://super-cdn.link/premiere4/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 4¹
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 5
-https://super-cdn.link/premiere5/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 5¹
 https://new.m3u8.one/pre5/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 6
-https://super-cdn.link/premiere6/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 6¹
 https://new.m3u8.one/pre6/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 7
-https://super-cdn.link/premiere7/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 7¹
 https://new.m3u8.one/pre7/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 8
-https://super-cdn.link/premiere8/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="CANAIS PREMIERE",PREMIERE 8¹
 
 
@@ -336,7 +336,7 @@ https://super-cdn.link/cnnbrasil/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/record-news3407.logowik.com.webp" group-title="CANAIS NOTICIAS",Record News
 https://super-cdn.link/recordnews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/globo-news-2022-new9475.logowik.com.webp" group-title="CANAIS NOTICIAS",Globo News
-https://super-cdn.link/globonews/index.m3u8
+https://new.m3u8.one/globonews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="CANAIS NOTICIAS",Band News
 https://super-cdn.link/bandnews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN
