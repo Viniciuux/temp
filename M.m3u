@@ -77,34 +77,34 @@ https://new.m3u8.one/803d324c8221e34717ee891b0a624acf/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1
-https://super-cdn.link/espn/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1¹
 https://new.m3u8.one/espn/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 3
-https://super-cdn.link/espn3/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 4
-https://super-cdn.link/espn4/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 5
-https://super-cdn.link/espn5/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 6
-https://super-cdn.link/espn6/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/100px-Logotipo_nosso_futebol.png" group-title="CANAIS ESPORTE",NOSSO FUTEBOL
-https://super-cdn.link/nossofutebol/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp" group-title="CANAIS ESPORTE",BandSports
-https://super-cdn.link/bandsports/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp" group-title="CANAIS ESPORTE",BandSports¹
 https://new.m3u8.one/bandsport/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/combate5159.logowik.com.webp" group-title="CANAIS ESPORTE",Combate
-https://super-cdn.link/combate/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/200px-Fish_TV_logo_2022.svg.png" group-title="CANAIS ESPORTE",FishTV
-https://super-cdn.link/fishtv/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="CANAIS ESPORTE",UFC Fight Pass
-https://super-cdn.link/ufcfightpass/index.m3u8
+https://new.m3u8.one/ufcfightpass/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport1.br" tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/7EEiX1P.png" group-title="CANAIS ESPORTE",EUROSPORT 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport2.br" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/Va5c5ID.png" group-title="CANAIS ESPORTE",EUROSPORT 2
@@ -114,145 +114,152 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 1
+https://new.m3u8.one/p2p/nba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 2
+https://new.m3u8.one/p2p/nba2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 3
+https://new.m3u8.one/p2p/nba3/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet
-https://super-cdn.link/animalplanet/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet¹
-https://origin-itabaiana-01.ittv.com.br/ANIMAL/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/838_discoverychannel.jpg" group-title="CANAIS DISCOVERY",Discovery Channel
-https://super-cdn.link/discoverychannel/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180824/ava/kisspng-science-channel-logo-discovery-channel-brand-showing-porn-images-for-greek-italian-porn-www-fre-1713949227223.webp" group-title="CANAIS DISCOVERY",Discovery Science
-https://super-cdn.link/discoveryscience/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="CANAIS DISCOVERY",Discovery Theater
-https://super-cdn.link/discoverytheater/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hgtv-canada-20127652.logowik.com.webp" group-title="CANAIS DISCOVERY",HGTV
-https://super-cdn.link/hgtv/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History
-https://super-cdn.link/history/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History¹
 https://new.m3u8.one/history/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2
-https://super-cdn.link/history2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2¹
 https://new.m3u8.one/history2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-channel3777.logowik.com.webp" group-title="CANAIS DISCOVERY",National Geographic
-https://super-cdn.link/nationalgeographic/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/kDVE26MqzflcGxBzZpp_Ljt5WIrsYaxhK9ufrkzv7l_BwKEW6rqZVO90Ke3ZhktqWSHm4qEOxzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS DISCOVERY",Discovery Home & Health
-https://super-cdn.link/discoveryheh/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery Turbo
-https://super-cdn.link/discoveryturbo/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery World
-https://super-cdn.link/discoveryworld/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/food-network-new7998.jpg" group-title="CANAIS DISCOVERY",Food Network
-https://super-cdn.link/foodnetwork/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="CANAIS DISCOVERY",Lifetime
-https://super-cdn.link/lifetime/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tlc1124.logowik.com.webp" group-title="CANAIS DISCOVERY",TLC
-https://super-cdn.link/tlc/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CANAIS DISCOVERY",Investigação Discovery
-https://super-cdn.link/discoveryid/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/250px-TelecineAction2021.png" group-title="CANAIS TELECINE",Telecine Action
-https://super-cdn.link/telecineaction/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="CANAIS TELECINE",Telecine Cult
-https://super-cdn.link/telecinecult/index.m3u8LOG
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine_Fun_%282021%29.png/250px-Telecine_Fun_%282021%29.png" group-title="CANAIS TELECINE",Telecine Fun
-https://super-cdn.link/telecinefun/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telecine_Pipoca_%282021%29.png/250px-Telecine_Pipoca_%282021%29.png" group-title="CANAIS TELECINE",Telecine Pipoca
-https://super-cdn.link/telecinepipoca/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/250px-Telecine_Premium_%282021%29.png" group-title="CANAIS TELECINE",Telecine Premium
-https://super-cdn.link/telecinepremium/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Touch_%282021%29.png/250px-Telecine_Touch_%282021%29.png" group-title="CANAIS TELECINE",Telecine Touch
-https://super-cdn.link/telecinetouch/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.infomoney.com.br/wp-content/uploads/2019/10/thumbnail_DarkflixTV.jpg?fit=1000%2C684&quality=50&strip=all" group-title="CANAIS FILMES",Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/375px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS FILMES",Megapix
-https://super-cdn.link/megapix/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",Space
 https://new.m3u8.one/space/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",Space¹
-https://super-cdn.link/space/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS FILMES",TNT Novelas
-https://super-cdn.link/tntnovelas/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-serie7560.logowik.com.webp" group-title="CANAIS FILMES",TNT Series
-https://origin-itabaiana-01.ittv.com.br/TNTSERIES/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT
-https://super-cdn.link/tnt/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT¹
 https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CANAIS FILMES",A&E
-https://super-cdn.link/aee/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amc-networks6137.jpg" group-title="CANAIS FILMES",AMC
-https://super-cdn.link/amc/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/axn-20156264.logowik.com.webp" group-title="CANAIS FILMES",AXN
-https://super-cdn.link/axn/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/canal-brasil2284.logowik.com.webp" group-title="CANAIS FILMES",Canal Brasil
-https://super-cdn.link/canalbrasil/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="CANAIS FILMES",Cinemax
-https://super-cdn.link/cinemax/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CANAIS FILMES",Comedy Central
-https://super-cdn.link/comedycentral/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/fx-international-tv4291.jpg" group-title="CANAIS FILMES",FX
-https://super-cdn.link/fx/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/paramount-network8623.jpg" group-title="CANAIS FILMES",Paramount Network
-https://super-cdn.link/paramountnetwork/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sony-channel3794.logowik.com.webp" group-title="CANAIS FILMES",Sony Channel
-https://super-cdn.link/sonychannel/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS FILMES",Sony Movies
-https://super-cdn.link/sonymovies/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/300px-Star_Channel_2020.svg.png" group-title="CANAIS FILMES",Star Channel
-https://super-cdn.link/starchannel/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" group-title="CANAIS FILMES",Studio Universal
-https://super-cdn.link/studiouniversal/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM
-https://super-cdn.link/tcm/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM¹
-https://origin-itabaiana-01.ittv.com.br/TCM/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" group-title="CANAIS FILMES",Universal TV
-https://super-cdn.link/universaltv/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="CANAIS FILMES",USA
-https://super-cdn.link/usa/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/warner-channel2376.logowik.com.webp" group-title="CANAIS FILMES",Warner Channel
-https://super-cdn.link/warnerchannel/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO
-https://super-cdn.link/hbo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO¹
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/hbo_63266754_0fdded326f8f7723393c801c6f8ff13d14a5324d/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANAIS HBO",HBO 2
-https://super-cdn.link/hbo2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO Family
-https://super-cdn.link/hbofamily/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="CANAIS HBO",HBO Xtreme
-https://super-cdn.link/hboxtreme/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="CANAIS HBO",HBO Mundi
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/hbomundi_9f682df2_576a4befd8d67cf4bd5c22b95ea7ad23a4651030/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1" group-title="CANAIS HBO",HBO+
-https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/hboplus_39dfc9ff_0ef4ff369588b75038d6a5cb4f63710083401e37/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="CANAIS HBO",HBO Pop
-https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/hbopop_ce09b127_ee3f3b8444a7ae305010c84384089e2e89a04fdc/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature
-https://super-cdn.link/hbosignature/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature¹
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/hbosignature_fa1a6512_1d27c1069053a357c8169e463f30c1d9fbd2bccd/playlist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/redetv9022.logowik.com.webp" group-title="CANAIS ABERTOS",REDETV
-https://super-cdn.link/redetv/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ABERTOS",Futura
-https://super-cdn.link/futura/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/180px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="CANAIS ABERTOS",RecordTV
-https://super-cdn.link/record/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="CANAIS ABERTOS",Band
-https://super-cdn.link/band/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT
-https://super-cdn.link/sbt/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT¹
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Globo RJ
@@ -260,71 +267,71 @@ https://new.m3u8.one/globorj/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Globo SP
 https://new.m3u8.one/globosp/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tv-cultura1750.logowik.com.webp" group-title="CANAIS ABERTOS",TV Cultura
-https://super-cdn.link/tvcultura/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/200px-TV_Brasil_logo_2023.svg.png" group-title="CANAIS ABERTOS",TV Brasil
-https://super-cdn.link/tvbrasil/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/240px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="CANAIS ABERTOS",TV Câmara
-https://super-cdn.link/tvcamara/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/200px-TV_Senado.svg.png" group-title="CANAIS ABERTOS",TV Senado
-https://super-cdn.link/tvsenado/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/200px-Rede_Vida_logo.png" group-title="CANAIS ABERTOS",Redevida
-https://super-cdn.link/redevida/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ABERTOS",TV Canção Nova
-https://super-cdn.link/cancaonova/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS ABERTOS",TV Aparecida
-https://super-cdn.link/aparecida/index.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/canal-gnt7365.logowik.com.webp" group-title="CANAIS VARIEDADES",GNT
-https://super-cdn.link/gnt/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/mtv-music-television2491.logowik.com.webp" group-title="CANAIS VARIEDADES",MTV
-https://super-cdn.link/mtv/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/multishow-20124940.logowik.com.webp" group-title="CANAIS VARIEDADES",MULTISHOW 1
-https://super-cdn.link/multishow/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/multishow-20124940.logowik.com.webp" group-title="CANAIS VARIEDADES",MULTISHOW 1¹
 https://new.m3u8.one/multishow/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/arte-18591.logowik.com.webp" group-title="CANAIS VARIEDADES",ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/arte-18591.logowik.com.webp" group-title="CANAIS VARIEDADES",ARTE 1¹
-https://super-cdn.link/arte1/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/adult-swim3905.jpg" group-title="CANAIS VARIEDADES",Adult Swim
-https://super-cdn.link/adultswim/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CANAIS VARIEDADES",Comedy Central
-https://super-cdn.link/comedycentral/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/75px-E%21_Logo_2012.svg.png" group-title="CANAIS VARIEDADES",E!
-https://super-cdn.link/e/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="CANAIS VARIEDADES",Film&Arts
-https://super-cdn.link/filmearts/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/300px-Logotipo_do_Modo_Viagem.svg.png" group-title="CANAIS VARIEDADES",Modo Viagem
-https://super-cdn.link/modoviagem/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS VARIEDADES",Viva
-https://super-cdn.link/viva/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/woohoo-tv7520.logowik.com.webp" group-title="CANAIS VARIEDADES",Woohoo
-https://super-cdn.link/woohoo/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-title="CANAIS VARIEDADES",Bis
-https://super-cdn.link/bis/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/150px-MTV_Live.svg.png" group-title="CANAIS VARIEDADES",MTV Live
-https://super-cdn.link/mtvlive/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/kZ2yqjHIiAxgAsymXHh1_nm9ahiqWXhvPLKmFmxC8uS0EYsFvSxWV-IzNJxO2cDt5ZeFJFIK=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS VARIEDADES",Curta!
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/canalcurta_9d6ad3cc_c2f73446be1dd933a072b127f49651840d60fde7/playlist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/cnn-brasil1434.logowik.com.webp" group-title="CANAIS NOTICIAS",CNN Brasil
-https://super-cdn.link/cnnbrasil/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/record-news3407.logowik.com.webp" group-title="CANAIS NOTICIAS",Record News
-https://super-cdn.link/recordnews/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/globo-news-2022-new9475.logowik.com.webp" group-title="CANAIS NOTICIAS",Globo News
 https://new.m3u8.one/globonews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="CANAIS NOTICIAS",Band News
-https://super-cdn.link/bandnews/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN¹
-https://origin-itabaiana-01.ittv.com.br/NHK/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://conteudo.imguol.com.br/c/interacao/facebook/canaluol.png" group-title="CANAIS NOTICIAS",UOL TV
 https://video01.soultv.com.br/uoltv/uoltv/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/1200px-Times_Brasil_CNBC_logo.svg.png" group-title="CANAIS NOTICIAS",Times Brasil
@@ -335,11 +342,13 @@ https://new.m3u8.one/jovempan/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iN2Y4Flb2IdWJIDa5G_vyFHT7s5_K5yFplyFtu3kSNDYv_uJPsSH_isk1EGWaT4YI4q5PL4x-6k=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",AGRO+
-https://origin-itabaiana-01.ittv.com.br/AGROMAIS/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/iN2Y4Flb2IdWJIDa5G_vyFHT7s5_K5yFplyFtu3kSNDYv_uJPsSH_isk1EGWaT4YI4q5PL4x-6k=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",AGRO+ 1¹
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/terra-viva7012.logowik.com.webp" group-title="CANAIS AGRO",TERRA VIVA
-https://origin-itabaiana-01.ittv.com.br/TERRAVIVA/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/terra-viva7012.logowik.com.webp" group-title="CANAIS AGRO",TERRA VIVA¹
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/4JrfaK2Rs-qN-54sJLlG88cWmoxMYYY6nUzKTMmN2bHUV4MxCis6AryL40Aefi6MrHZaY2ovrw=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS AGRO",SUCESSO NO CAMPO
 https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/XP3gJmZRtEottKu8KD9mm3MqUehsvtGFmK5NAyH7F3Nek4LI0P8jy7rFVJPBUfwAeh8" group-title="CANAIS AGRO",AGRO TV
@@ -375,25 +384,25 @@ https://new.m3u8.one/bbb8/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS DESENHOS",Cartoon Network
-https://super-cdn.link/cartoonnetwork/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="CANAIS DESENHOS",Disney Channel
-https://super-cdn.link/disneychannel/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/230px-Gloob_2022.svg.png" group-title="CANAIS DESENHOS",Gloob
-https://super-cdn.link/gloob/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="CANAIS DESENHOS",Nickelodeon
-https://super-cdn.link/nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/180px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS DESENHOS",Cartoonito
-https://super-cdn.link/cartoonito/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/100px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="CANAIS DESENHOS",Discovery Kids
-https://super-cdn.link/discoverykids/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/190px-Gloobinho_logo.svg.png" group-title="CANAIS DESENHOS",Gloobinho
-https://super-cdn.link/gloobinho/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="CANAIS DESENHOS",Nick Jr.
-https://super-cdn.link/nickjr/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/150px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS DESENHOS",TV Rá-Tim-Bum
-https://super-cdn.link/ratimbum/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfaKBw_0BlataG7MeXsQpMT4kHq9osezKrQ&s" group-title="CANAIS DESENHOS",ZooMoo Kids
-https://super-cdn.link/zoomoo/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqZ-vySEcXjnE0qdWp6WxLiflKtj53_qTLg&s" group-title="CANAIS DESENHOS",AnimeTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
