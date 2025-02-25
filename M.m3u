@@ -48,12 +48,10 @@ https://new.m3u8.one/pre7/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV
 https://new.m3u8.one/sportv/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV¹
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 2
-
+https://new.m3u8.one/sportv2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 3
-
+https://new.m3u8.one/sportv3/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 1
@@ -76,16 +74,14 @@ https://new.m3u8.one/803d324c8221e34717ee891b0a624acf/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1¹
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN
 https://new.m3u8.one/espn/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 2
-
+https://new.m3u8.one/espn2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 3
-
+https://new.m3u8.one/espn3/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 4
-
+https://new.m3u8.one/espn4/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 5
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 6
@@ -224,7 +220,7 @@ https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="CANAIS FILMES",USA
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/warner-channel2376.logowik.com.webp" group-title="CANAIS FILMES",Warner Channel
-
+https://new.m3u8.one/warnetv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO
@@ -259,7 +255,7 @@ https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/200px-Rede_Bandeirantes_logo_2018.svg.png" group-title="CANAIS ABERTOS",Band
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT
-
+https://new.m3u8.one/sbt/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT¹
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Globo RJ
@@ -282,6 +278,10 @@ https://new.m3u8.one/globosp/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/9/5d0ed475d9f6a2c5a20eb87dfd133eb072ed705a0130e832deb55583044b7623.png" group-title="CANAIS XXX",SEXTREME
+https://new.m3u8.one/sextreme/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/6/2c205decca90c55e03b7577317ff4274cb57f650724dd1fac800bb02203c7e5f.png" group-title="CANAIS XXX",SEX HOT
+https://new.m3u8.one/sexhot/index.m3u8
 
 
 
@@ -321,13 +321,13 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/cnn-brasil1434.logowik.com.webp" group-title="CANAIS NOTICIAS",CNN Brasil
-
+https://new.m3u8.one/cnnbrasil/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/record-news3407.logowik.com.webp" group-title="CANAIS NOTICIAS",Record News
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/globo-news-2022-new9475.logowik.com.webp" group-title="CANAIS NOTICIAS",Globo News
 https://new.m3u8.one/globonews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="CANAIS NOTICIAS",Band News
-
+https://new.m3u8.one/bandnews/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="CANAIS NOTICIAS",NHK JAPAN¹
