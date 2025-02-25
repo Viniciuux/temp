@@ -57,13 +57,23 @@ https://new.m3u8.one/sportv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 1
-https://super-cdn.link/primevideo/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
-https://super-cdn.link/primevideo2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
-https://super-cdn.link/primevideo3/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
-https://super-cdn.link/primevideo4/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/158/5d6ea2adac3f8015a2a5fc396ba3f9a953db0ea882ed3af0fbf4b0a9ba7e992e.png" group-title="CANAIS DISNEY",DISNEY + 01
+https://new.m3u8.one/803d324c8221e34717ee891b0a624acf/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/158/5d6ea2adac3f8015a2a5fc396ba3f9a953db0ea882ed3af0fbf4b0a9ba7e992e.png" group-title="CANAIS DISNEY",DISNEY + 02
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/158/5d6ea2adac3f8015a2a5fc396ba3f9a953db0ea882ed3af0fbf4b0a9ba7e992e.png" group-title="CANAIS DISNEY",DISNEY + 03
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/158/5d6ea2adac3f8015a2a5fc396ba3f9a953db0ea882ed3af0fbf4b0a9ba7e992e.png" group-title="CANAIS DISNEY",DISNEY + 04
+
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 1
@@ -319,7 +329,8 @@ https://origin-itabaiana-01.ittv.com.br/NHK/index.m3u8
 https://video01.soultv.com.br/uoltv/uoltv/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/1200px-Times_Brasil_CNBC_logo.svg.png" group-title="CANAIS NOTICIAS",Times Brasil
 https://video01.soultv.com.br/timesbrasil/timesbrasil/index.m3u8
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/157/83d81e64f6031a71a90836da915f1f03bae643d7bc3533e98d36e7aaacb0c113.png" group-title="CANAIS NOTICIAS",Jovem Pan
+https://new.m3u8.one/jovempan/index.m3u8
 
 
 
