@@ -26,7 +26,7 @@
 #EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB NORDESTE¹
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv
-https://live-as-11-11.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMTEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQwMzQ5ODI0LCJpYXQiOjE3NDAyNjM0MjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMDdiM2U1MzgtNTIwMS00MzgyLThiMjUtYzJmMzg5NzJiMWFkIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.pChbNxA2CVV6bQ12kLVRPhCloSZqf4eWl5uhAq7r_iq2aV49jX0B9AihE1891HxuPWZW5Qu5cWE8FuNwJELGoICA9rZ8O0huQt_bKww0WGD5ouPjmjF7i_GlBcL32ocLkPAlONnVAe5l_W_S-vkwNFn-Qzp6YcBKWjGCouHxFLhMpmsGRBzIC_FcXuvOjUyNnna_1PjHfplmcq1vFLa6r-wJIf0MJMTHfD_Zhp5cr7O6rYRskv3tHPr6LG4pTjXEt7vrMX6TaNTwLi4CO_OPqnczIe9dY-qwI_E6PHSPYlAFvZ-FQgBRVWmWVAMZQsDLQrwIGGApBlsAy9Ym4_7BeQ/nu/f(bMin=2000)/spo124ha/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv2
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv3
@@ -75,13 +75,13 @@ https://new.m3u8.one/pre7/index.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV
-https://super-cdn.link/sportv/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV¹
 https://new.m3u8.one/sportv/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV¹
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 2
-https://super-cdn.link/sportv2/index.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sportv-20172772.logowik.com.webp" group-title="CANAIS SPORTV",SPORTV 3
-https://super-cdn.link/sportv3/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 1
@@ -420,7 +420,42 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 ######################################## FILMES #################################################
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg" group-title="FILME",Heart Eyes (2025)
+https://v02.0img.top/v51/mp4/tt32558992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hhndjUdo9wblPlcu1pjwu6rrCjH.jpg" group-title="FILME",Luigi Mangione: O Assassino do CEO (2025)
+https://v02.0img.top/v51/mp4/tt35816740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/gGGFHfoA4fYPHZeWpq6oB9Z73EV.jpg" group-title="FILME",Uma Lição do Passado (2023)
+https://v02.0img.top/v51/mp4/tt15420964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/fNBrFOw3GcJMGkJL6DTKgbkn0jW.jpg" group-title="FILME",O Comandante: Pânico nas Alturas (2019)
+https://v02.0img.top/v51/mp4/tt10218664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/2CKqzCpqK1tRxWsT9NoV43EDkNY.jpg" group-title="FILME",O Ourives (2022)
+https://v02.0img.top/v51/mp4/tt15307448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/a1PVrIfWecgmzv5x799NVMssUAp.jpg" group-title="FILME",De Volta ao Mar (2024)
+https://v02.0img.top/v51/mp4/tt11687002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cTKNcZ5COnafbwHNZnEqEzF4r8J.jpg" group-title="FILME",Todos Irão Morrer (2023)
+https://v02.0img.top/v51/mp4/tt7272192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg" group-title="FILME",O Brutalista (2024)
+https://v02.0img.top/v51/mp4/tt8999762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/iiCJF71QoY0cU14wHusG9LMsSrC.jpg" group-title="FILME",Thor: O Mundo Sombrio (2013)
+https://v02.0img.top/v51/mp4/tt1981115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg" group-title="FILME",O Reformatório Nickel (2024)
+https://v02.0img.top/v51/mp4/tt23055660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg" group-title="FILME",Thor: Amor e Trovão (2022)
+https://v02.0img.top/v51/mp4/tt10648342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg" group-title="FILME",O Hobbit: A Batalha dos Cinco Exércitos (2014)
+https://v02.0img.top/v51/mp4/tt2310332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mQuyx1qXOc6ftTctYVG3gcvWrEH.jpg" group-title="FILME",Piratas do Caribe: Navegando em Águas Misteriosas (2011)
+https://v02.0img.top/v51/mp4/tt1298650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="FILME",O Hobbit: A Desolação de Smaug (2013)
+https://v02.0img.top/v51/mp4/tt1170358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ghSOjNRLpXjp9PB22CnGRuZgXJW.jpg" group-title="FILME",O Hobbit: Uma Jornada Inesperada (2012)
+https://v02.0img.top/v51/mp4/tt0903624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/dCXOveWolVMMbJZQ0cNslpqohPM.jpg" group-title="FILME",Piratas do Caribe: O Baú da Morte (2006)
+https://v02.0img.top/v51/mp4/tt0383574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zUpeLvZJw5Tf22BAjraOZFex9E0.jpg" group-title="FILME",Piratas do Caribe: A Maldição do Pérola Negra (2003)
+https://v02.0img.top/v51/mp4/tt0325980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tms7ulCuyhXyvMHd9Gyg9J6MMph.jpg" group-title="FILME",A Noiva Cadáver (2005)
+https://v02.0img.top/v51/mp4/tt0121164.mp4
 #EXTINF:-1 tvg-id="1084199" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/95pve5bSSHQ695P5bKivC8oe2QY.jpg" group-title="FILME",O Último Refúgio (2024)
 https://v02.0img.top/v51/mp4/tt27676959.mp4
 #EXTINF:-1 tvg-id="1084199" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/5ctJuCOAbuXMAwoE6RTpaYUoILS.jpg" group-title="FILME",Colégio Girassol (2024)
