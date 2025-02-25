@@ -1,41 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/Viniciuux/guid/refs/heads/main/filme.xml,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="JOGOS FLA",PREMIERE 01
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB CASA 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="JOGOS FLA",PREMIERE 02
+https://new.m3u8.one/pre1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br" group-title="JOGOS FLA",SPORTV 01
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB MOSAICO
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB SALA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB COZINHA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB ACADEMIA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB PISCINA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB ANOS 50
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB PANTENE
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB FANTASIA
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB NORDESTE
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://embehub.com/img/bbb25.png" group-title="GloboPlay",BBB NORDESTE¹
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv2
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Sportv3
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo RJ
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo SP
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="GloboPlay",Globo PA
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br" group-title="JOGOS FLA",SPORTV 02
 
 
 
