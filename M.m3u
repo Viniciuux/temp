@@ -404,6 +404,12 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES #################################################
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/movie/1062807-spyxfamily-code-white#" group-title="FILMES | ANIMAÇÃO",SPY x FAMILY CÓDIGO: Branco
+https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-code-white-dublado/01.mp4/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg" group-title="FILME",Heart Eyes (2025)
 https://v02.0img.top/v51/mp4/tt32558992.mp4
