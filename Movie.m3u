@@ -404,6 +404,23 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES #################################################
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfC6UU9Dik01e80aUPCHI9idDZ.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio I - A Ameaça Fantasma (1999)
+https://drive.usercontent.google.com/download?id=1loRP8o2o3rPMPQ8Iii-ICyIaHhsgIrld&export=download&authuser=0&confirm=t&uuid=323139d5-5868-4cdf-938a-8c8a63845005&at=AEz70l7lkXVxiZz7E8zGwVx9nD6E%3A1741618059086
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ri3Gu1dYMxDcT0t4sUi0Aqf7MRS.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio II - O Ataque dos Clones (2002)
+https://drive.usercontent.google.com/download?id=1YY5yLfAntg-aHblpgGiLYvKmnVnhKU5J&export=download&authuser=0&confirm=t&uuid=67eb03ff-cbcf-4fc2-8925-b7328e5c74a5&at=AEz70l733VtPmok6ZGiw9C98PH8V%3A1741618260448
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio IV - Uma Nova Esperança (1977)
+https://drive.usercontent.google.com/download?id=1vZDRk35V-NbMKFXvH7ps5SsUKB3xJr48&export=download&authuser=0&confirm=t&uuid=1bc47f2f-e43e-450b-a1e7-3a5398fe22b7&at=AEz70l74dBM3GlI4XYvA1ms1ToRK%3A1741618368751
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLGT8b4Ut10z44uYLaip4QiwKta.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio V - O Império Contra-Ataca (1980)
+https://drive.usercontent.google.com/download?id=1fgV62Bx6e3jhk-SjyU9LiY5aJZUxZFAJ&export=download&authuser=0&confirm=t&uuid=920ec0e6-f81f-44c8-b253-0c51a3fe601a&at=AEz70l5uOEFqcuCDN7XswFUTe_TP%3A1741618476140
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="COLEÇÃO | STAR WARS",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="COLEÇÃO | STAR WARS",AAAAAAA
+
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/movie/1062807-spyxfamily-code-white#" group-title="FILMES | ANIMAÇÃO",SPY x FAMILY CÓDIGO: Branco
 https://cdn-s01.mywallpaper-4k-image.net/stream/s/spy-x-family-code-white-dublado/01.mp4/index.m3u8
 
