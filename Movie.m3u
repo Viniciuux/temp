@@ -3,6 +3,10 @@
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="JOGOS FLA",PREMIERE 01
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES TESTE",Conclave 1.1G
+https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/08783/hy39enj0ou8s_h/master.m3u8?t=QU6TrnE1ZO919yXIjC01xKBgTpvIefE-sBPfE1OcVnI&s=1742165224&e=129600&f=43919571&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=20940
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES TESTE",Conclave outro
+https://cdn1023.tnmr.org/hls2/01/01424/,wpat1bw1wvro_h,lang/por/wpat1bw1wvro_por,.urlset/master.m3u8?t=R30-pmKwnHaCEXIQIbYBtsOBskQ4cgdcvjqOyCazAaA&s=1742165453&e=28800&f=7121933&i=0.3&sp=0&fr=wpat1bw1wvro
 #EXTINF:-1 tvg-name="" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="JOGOS FLA",PREMIERE 02
 https://new.m3u8.one/pre1/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/22/Sportv-nova-logo.jpg/revision/latest?cb=20211110213641&path-prefix=pt-br" group-title="JOGOS FLA",SPORTV 01
