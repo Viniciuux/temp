@@ -65,17 +65,15 @@ https://tvsmarters.org/espn6/video.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/Logotipo_nosso_futebol.png/100px-Logotipo_nosso_futebol.png" group-title="CANAIS ESPORTE",NOSSO FUTEBOL
-
+https://tvsmarters.org/nossofutebol/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp" group-title="CANAIS ESPORTE",BandSports
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp" group-title="CANAIS ESPORTE",BandSports¹
-https://new.m3u8.one/bandsport/index.m3u8
+https://tvsmarters.org/bandsports/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/combate5159.logowik.com.webp" group-title="CANAIS ESPORTE",Combate
-
+https://tvsmarters.org/combate/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/200px-Fish_TV_logo_2022.svg.png" group-title="CANAIS ESPORTE",FishTV
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="CANAIS ESPORTE",UFC Fight Pass
-https://new.m3u8.one/ufcfightpass/index.m3u8
+
 #EXTINF:-1 tvg-id="EuroSport1.br" tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/7EEiX1P.png" group-title="CANAIS ESPORTE",EUROSPORT 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="EuroSport2.br" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/Va5c5ID.png" group-title="CANAIS ESPORTE",EUROSPORT 2
@@ -86,35 +84,29 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 1
-https://new.m3u8.one/p2p/nba/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 2
-https://new.m3u8.one/p2p/nba2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://embedflix.top/img/poster/4/114/221ddde66d1ff4ff79f671cff64c51d33b3d5a70b40ef67c7e7aa19e779216e0.png" group-title="CANAIS NBA",NBA 3
-https://new.m3u8.one/p2p/nba3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="CANAIS DISCOVERY",Animal Planet¹
-
+https://tvsmarters.org/animalplanet/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/838_discoverychannel.jpg" group-title="CANAIS DISCOVERY",Discovery Channel
-
+https://tvsmarters.org/discoverychannel/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://banner2.cleanpng.com/20180824/ava/kisspng-science-channel-logo-discovery-channel-brand-showing-porn-images-for-greek-italian-porn-www-fre-1713949227223.webp" group-title="CANAIS DISCOVERY",Discovery Science
-
+https://tvsmarters.org/discoveryscience/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="CANAIS DISCOVERY",Discovery Theater
-
+https://tvsmarters.org/discoverytheater/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hgtv-canada-20127652.logowik.com.webp" group-title="CANAIS DISCOVERY",HGTV
-
+https://tvsmarters.org/hgtv/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/history-tv7284.logowik.com.webp" group-title="CANAIS DISCOVERY",History¹
-https://new.m3u8.one/history/index.m3u8
+https://tvsmarters.org/history/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="CANAIS DISCOVERY",History 2¹
+https://tvsmarters.org/history2/video.m3u8
 https://new.m3u8.one/history2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-channel3777.logowik.com.webp" group-title="CANAIS DISCOVERY",National Geographic
-
+https://tvsmarters.org/nationalgeographic/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/kDVE26MqzflcGxBzZpp_Ljt5WIrsYaxhK9ufrkzv7l_BwKEW6rqZVO90Ke3ZhktqWSHm4qEOxzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS DISCOVERY",Discovery Home & Health
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery Turbo
