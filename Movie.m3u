@@ -150,62 +150,53 @@ https://tvsmarters.org/tntseries/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT
 https://tvsmarters.org/tnt/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CANAIS FILMES",A&E
-
+https://tvsmarters.org/aee/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amc-networks6137.jpg" group-title="CANAIS FILMES",AMC
-
+https://tvsmarters.org/amc/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/axn-20156264.logowik.com.webp" group-title="CANAIS FILMES",AXN
-
+https://tvsmarters.org/axn/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/canal-brasil2284.logowik.com.webp" group-title="CANAIS FILMES",Canal Brasil
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="CANAIS FILMES",Cinemax
-
+https://tvsmarters.org/cinemax/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CANAIS FILMES",Comedy Central
-
+https://tvsmarters.org/comedycentral/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/fx-international-tv4291.jpg" group-title="CANAIS FILMES",FX
-
+https://tvsmarters.org/fx/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/paramount-network8623.jpg" group-title="CANAIS FILMES",Paramount Network
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/sony-channel3794.logowik.com.webp" group-title="CANAIS FILMES",Sony Channel
-
+https://tvsmarters.org/sonychannel/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS FILMES",Sony Movies
-
+https://tvsmarters.org/sonymovies/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/300px-Star_Channel_2020.svg.png" group-title="CANAIS FILMES",Star Channel
-
+https://tvsmarters.org/starchannel/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp" group-title="CANAIS FILMES",Studio Universal
-
+https://tvsmarters.org/studiouniversal/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS FILMES",TCM¹
-
+https://tvsmarters.org/tcm/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" group-title="CANAIS FILMES",Universal TV
-
+https://tvsmarters.org/universaltv/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="CANAIS FILMES",USA
-
+https://tvsmarters.org/usa/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/warner-channel2376.logowik.com.webp" group-title="CANAIS FILMES",Warner Channel
-https://new.m3u8.one/warnetv/index.m3u8
-
-
+https://tvsmarters.org/warner/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo7444.logowik.com.webp" group-title="CANAIS HBO",HBO¹
-
+https://tvsmarters.org/hbo/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="CANAIS HBO",HBO 2
-
+https://tvsmarters.org/hbo2/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO Family
-
+https://tvsmarters.org/hbofamily/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="CANAIS HBO",HBO Xtreme
-
+https://tvsmarters.org/hboxtreme/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="CANAIS HBO",HBO Mundi
-
+https://tvsmarters.org/hbomundi/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1" group-title="CANAIS HBO",HBO+
-
+https://tvsmarters.org/hboplus/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="CANAIS HBO",HBO Pop
-
+https://tvsmarters.org/hbopop/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO Signature¹
-
-
+https://tvsmarters.org/hbosignature/video.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/redetv9022.logowik.com.webp" group-title="CANAIS ABERTOS",REDETV
