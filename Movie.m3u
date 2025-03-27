@@ -111,6 +111,10 @@ https://cdnlv.online/espn6/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/espn5188.jpg" group-title="CANAIS ESPN",ESPN 6
 https://new.ejaculacaoretardada.site/espn6/index.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nIjQ5cXq-b10hI1SU9rc1vX4f8RKfqa12w&s" group-title="CANAIS PARAMOUNT",PARAMOUNT+
+https://tvsmarters.org/paramountplus/index.ts.m3u8
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amazon-prime-video2520.jpg" group-title="CANAIS PRIME",PRIME VIDEO 
 https://cdnlv.online/primevideo/index.m3u8
