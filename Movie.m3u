@@ -108,52 +108,47 @@ https://new.m3u8.one/history2/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-channel3777.logowik.com.webp" group-title="CANAIS DISCOVERY",National Geographic
 https://tvsmarters.org/nationalgeographic/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/kDVE26MqzflcGxBzZpp_Ljt5WIrsYaxhK9ufrkzv7l_BwKEW6rqZVO90Ke3ZhktqWSHm4qEOxzU=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS DISCOVERY",Discovery Home & Health
-
+https://tvsmarters.org/discoveryhh/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery Turbo
-
+https://tvsmarters.org/discoveryturbo/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANAIS DISCOVERY",Discovery World
-
+https://tvsmarters.org/discoveryworld/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/food-network-new7998.jpg" group-title="CANAIS DISCOVERY",Food Network
-
+https://tvsmarters.org/foodnetwork/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="CANAIS DISCOVERY",Lifetime
-
+https://tvsmarters.org/lifetime/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tlc1124.logowik.com.webp" group-title="CANAIS DISCOVERY",TLC
-
+https://tvsmarters.org/tlc/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CANAIS DISCOVERY",Investigação Discovery
-
+https://tvsmarters.org/discoveryid/video.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TelecineAction2021.png/250px-TelecineAction2021.png" group-title="CANAIS TELECINE",Telecine Action
-
+https://tvsmarters.org/tcaction/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="CANAIS TELECINE",Telecine Cult
-
+https://tvsmarters.org/tccult/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine_Fun_%282021%29.png/250px-Telecine_Fun_%282021%29.png" group-title="CANAIS TELECINE",Telecine Fun
-
+https://tvsmarters.org/tcfun/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telecine_Pipoca_%282021%29.png/250px-Telecine_Pipoca_%282021%29.png" group-title="CANAIS TELECINE",Telecine Pipoca
-
+https://tvsmarters.org/tcpipoca/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/250px-Telecine_Premium_%282021%29.png" group-title="CANAIS TELECINE",Telecine Premium
-
+https://tvsmarters.org/tcpremium/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Touch_%282021%29.png/250px-Telecine_Touch_%282021%29.png" group-title="CANAIS TELECINE",Telecine Touch
-
-
+https://tvsmarters.org/tctouch/video.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.infomoney.com.br/wp-content/uploads/2019/10/thumbnail_DarkflixTV.jpg?fit=1000%2C684&quality=50&strip=all" group-title="CANAIS FILMES",Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/375px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS FILMES",Megapix
-
+https://tvsmarters.org/megapix/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",Space
-https://new.m3u8.one/space/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS FILMES",Space¹
-
+https://tvsmarters.org/space/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/wq1r13HcuhW0DALmiB4vOuudUzoXgZEiR7xwO5Xyw5ewTOqFsGjQmW1st0dAEoJ7oMW4oDPB=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS FILMES",TNT Novelas
-
+https://tvsmarters.org/tntnovelas/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-serie7560.logowik.com.webp" group-title="CANAIS FILMES",TNT Series
-
+https://tvsmarters.org/tntseries/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="CANAIS FILMES",TNT
-https://new.m3u8.one/tnt/index.m3u8
+https://tvsmarters.org/tnt/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png" group-title="CANAIS FILMES",A&E
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/amc-networks6137.jpg" group-title="CANAIS FILMES",AMC
