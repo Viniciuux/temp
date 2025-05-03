@@ -292,9 +292,9 @@ https://embedcanaisdetv.site/sbtsp/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Globo RJ
-https://embedcanaisdetv.site/globorj/video.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/180px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",Globo SP
-https://embedcanaisdetv.site/globosp/video.m3u8
+http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/tv-cultura1750.logowik.com.webp" group-title="CANAIS ABERTOS",TV Cultura
 https://cdnlv.online/tvcultura/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/200px-TV_Brasil_logo_2023.svg.png" group-title="CANAIS ABERTOS",TV Brasil
