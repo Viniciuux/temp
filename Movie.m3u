@@ -413,6 +413,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES #################################################
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="FILMES AÇÃO",A Origem (2010)
+https://vods1.watchingvs.com/m/A%20Origem_2010_tt1375666.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg" group-title="FILMES AÇÃO",Matrix (1999)
 https://vods1.watchingvs.com/m/Matrix_1999_tt0133093.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by5hjYJp3OJ8GW118kPeURp1rFo.jpg" group-title="FILMES AÇÃO",Bailarina - Do Universo de John Wick (2025)
