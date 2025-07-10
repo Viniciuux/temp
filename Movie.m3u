@@ -411,7 +411,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 
 
-######################################## FILMES | AÇÃO #################################################
+######################################## FILMES | ADD RECENTES #################################################
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="FILMES | AÇÃO",A Origem (2010)
 https://vods1.watchingvs.com/m/A%20Origem_2010_tt1375666.mp4
@@ -419,10 +419,6 @@ https://vods1.watchingvs.com/m/A%20Origem_2010_tt1375666.mp4
 https://vods1.watchingvs.com/m/Matrix_1999_tt0133093.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by5hjYJp3OJ8GW118kPeURp1rFo.jpg" group-title="FILMES | AÇÃO",Bailarina - Do Universo de John Wick (2025)
 https://cdn.iageni.com/m/Bailarina.Do.Universo.de.John.Wick.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1.mp4
-
-
-######################################## FILMES | TERROR #################################################
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/vJI8aVqt5wfg6yp5e2GsdB5B24r.jpg" group-title="FILMES | TERROR",O Exorcismo do Demônio (2020)
 https://860718357.tapecontent.net/radosgw/9Xv0G88Rvlsa84G/2xOEK1Y6GMnpABkXWa7PEwkEN5H7b0a1LFBFmgY8vXS43gqv_3h9tT_R_b8CgMztB6gfwn8HTttQdLx6Inq9ey8URHsmeA7ShaJLbwAfwuZwGLtTdQOgECWEvPpXjqXrCVVRcV8QAa0brzvWMSD5WzMEg_5DpRiQ4FtxpxlIkmklR-aQjeDuKp-A3cJZH6iPgovymDEmp15m5ULsVq74X7gNmW__zFTNax4YlUd48O40J9BHTuN4WcqXuFUOt-IoPjBdweo9KUFRCPrkR5h6RO4ryY33ilhkM64WVKBRx8jNi0kQi-9kjkPJco-xLn4DKuKyOjf0mgUVTGwM/O.Exorcismo.do.Dem%C3%B4nio.2020.mkv.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aTUsZjeoCTiGtDd4B855BPrRQ4Q.jpg" group-title="FILMES | TERROR",A Mulher no Jardim (2025)
@@ -437,8 +433,144 @@ https://vods1.watchingvs.com/m/P%C3%A2nico%20na%20Floresta%203_2009_tt1261978.mp
 https://vods1.watchingvs.com/m/P%C3%A2nico%20na%20Floresta%205_2013_tt2375779.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z9JMIja6UYHwK6fFw0RR5w3pGVR.jpg" group-title="FILMES | TERROR",Pânico na Floresta 6 (2014)
 https://vods1.watchingvs.com/m/P%C3%A2nico%20na%20Floresta%206_2014_tt3612032.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/m7rGCY9MafDX3N3Z9jSzHSWGqtg.jpg" group-title="FILMES | TERROR",Viagem Maldita (2006)
+https://vods1.watchingvs.com/m/Viagem%20Maldita_2006_tt0454841.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tFLQiq2nOZoRYyZUnmRdRToTpfM.jpg" group-title="FILMES | TERROR",Viagem Maldita 2: O Retorno dos Malditos (2007)
+https://vods1.watchingvs.com/m/O%20Retorno%20dos%20Malditos_2007_tt0800069.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/2L8fErMpGD4s81VtWwspeyHYdiI.jpg" group-title="FILMES | TERROR",Sobrenatural (2011)
+https://vods1.watchingvs.com/m/Sobrenatural_2011_tt1591095.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg" group-title="FILMES | TERROR",Sobrenatural: Capítulo 2 (2013)
+https://vods1.watchingvs.com/m/Sobrenatural:%20Cap%C3%ADtulo%202_2013_tt2226417.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg" group-title="FILMES | TERROR",Sobrenatural: A Origem (2015)
+https://vods1.watchingvs.com/m/Sobrenatural:%20A%20Origem_2015_tt3195644.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/v3RYZGwImjBUF18RV57J5QuOa31.jpg" group-title="FILMES | TERROR",Sobrenatural: A Última Chave (2018)
+https://vods1.watchingvs.com/m/Sobrenatural:%20A%20%C3%9Altima%20Chave_2018_tt5726086.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg" group-title="FILMES | COMÉDIA",Zumbilândia (2009)
+https://vods1.watchingvs.com/m/Zumbil%C3%A2ndia_2009_tt1156398.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg" group-title="FILMES | COMÉDIA",Zumbilândia: Atire Duas Vezes (2019)
+https://vods1.watchingvs.com/m/Zumbil%C3%A2ndia:%20Atire%20Duas%20Vezes_2019_tt1560220.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4deKiUXWqyATIEKCBSjRxCOLvu0.jpg" group-title="FILMES | TERROR",Olhos Famintos (2001)
+https://vods1.watchingvs.com/m/Olhos%20Famintos_2001_tt0263488.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/aRK3qCe5FtTK6W3STgPihEhgpxA.jpg" group-title="FILMES | TERROR",Olhos Famintos 2 (2003)
+https://vods1.watchingvs.com/m/Olhos%20Famintos%202_2003_tt0301470.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7PB0l5Y162Hcgx8JwyW4hsafLWY.jpg" group-title="FILMES | TERROR",Olhos Famintos 3 (2017)
+https://vods1.watchingvs.com/m/Olhos%20Famintos%203_2017_tt1139592.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/wGkro5BxdWDe14NeaJe3iH74joV.jpg" group-title="FILMES | TERROR",Morto Não Fala (2019)
+https://vods1.watchingvs.com/m/Morto%20N%C3%A3o%20Fala_2019_tt7986672.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j2jb6DwNCPIU2LtUrJ9zoQIGvSz.jpg" group-title="FILMES | FICÇÃO",Eu Sou a Lenda (2007)
+https://vods1.watchingvs.com/m/Eu%20Sou%20a%20Lenda_2007_tt0480249.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/3Awd26Ktx3E9VuIcHkRcIIIp9G0.jpg" group-title="FILMES | TERROR",Doce Vingança (2010)
+https://vods1.watchingvs.com/m/Doce%20Vingan%C3%A7a_2011_tt1242432.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qnU2jXAL4YWP0d7hnrp8xTyz1P4.jpg" group-title="FILMES | TERROR",Doce Vingança 2 (2013)
+https://vods1.watchingvs.com/m/Doce%20Vingan%C3%A7a%202_2014_tt2537176.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/2cqLnsT4yDWBSGte02iYkFNB009.jpg" group-title="FILMES | TERROR",Doce Vingança 3 - A Vingança É Minha (2015)
+https://vods1.watchingvs.com/m/Doce%20Vingan%C3%A7a%203:%20A%20Vingan%C3%A7a%20%C3%A9%20Minha_2015_tt4530884.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tH0YRWQciL1pkwnLR7cZ7xSh7oA.jpg" group-title="FILMES | TERROR",Um Lugar Silencioso (2018)
+https://vods1.watchingvs.com/m/Um%20Lugar%20Silencioso_2018_tt6644200.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://vods1.watchingvs.com/m/A%20Centop%C3%A9ia%20Humana_2010_tt1467304.mp4" group-title="FILMES | TERROR",A Centopéia Humana (2009)
+https://vods1.watchingvs.com/m/A%20Centop%C3%A9ia%20Humana_2010_tt1467304.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oYl6ZcWqt17HeBd3FdyuADD30CD.jpg" group-title="FILMES | TERROR",A Centopéia Humana 2 (2011)
+https://vods1.watchingvs.com/m/A%20Centopeia%20Humana%202_2011_tt1530509.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg" group-title="FILMES | TERROR",A Centopéia Humana 3 (2015)
+https://vods1.watchingvs.com/m/A%20Centop%C3%A9ia%20Humana%203_2015_tt1883367.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/QqHtwk0oHYed26zra9WGQGyBSm.jpg" group-title="FILMES | TERROR",Invasão Zumbi (2016)
+https://vods1.watchingvs.com/m/Invas%C3%A3o%20Zumbi_2016_tt5700672.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1ZwFI4EA9xGo3aJV9Ulqx7Y37Rz.jpg" group-title="FILMES | TERROR",Madrugada dos Mortos (2004)
+https://vods1.watchingvs.com/m/Madrugada%20dos%20Mortos_2004_tt0363547.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1dJ9BmOntBskuBbCnTuDmCVEf0i.jpg" group-title="FILMES | TERROR",Terra dos Mortos (2005)
+https://vods1.watchingvs.com/m/Terra%20dos%20Mortos_2005_tt0418819.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lIWHCSFdkerKbxAVoZyOtr5LpWy.jpg" group-title="FILMES | TERROR",Guerra Mundial Z (2013)
+https://vods1.watchingvs.com/m/Guerra%20Mundial%20Z_2013_tt0816711.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uTaCFSTQ29LKqLXJU75owdir04h.jpg" group-title="FILMES | TERROR",A Entidade (2012)
+https://vods1.watchingvs.com/m/A%20Entidade_2012_tt1922777.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1nKrDcCzDG5LLamYb3dWWenE92L.jpg" group-title="FILMES | TERROR",A Entidade 2 (2015)
+https://vods1.watchingvs.com/m/A%20Entidade%202_2015_tt2752772.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/pGQLuX6yIouFM2R62Dls72PMdW4.jpg" group-title="FILMES | TERROR",A Marca do Demônio (2020)
+https://vods1.watchingvs.com/m/A%20Marca%20do%20dem%C3%B4nio_2020_tt7263040.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/iIAIlKKk0r0GCFeDo2SNFzW8sbS.jpg" group-title="FILMES | TERROR",Maligno (2019)
+https://vods1.watchingvs.com/m/Maligno_2019_tt4504044.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/iANNk5aJZecfESjS7CJGgZ49YtI.jpg" group-title="FILMES | TERROR",Campo do Medo (2019)
+https://vods1.watchingvs.com/m/Campo%20do%20Medo_2019_tt4687108.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/nhK5Np3A9wBXAYzropa298TylCa.jpg" group-title="FILMES | TERROR",O Nevoeiro (2007)
+https://vods1.watchingvs.com/m/O%20Nevoeiro_2007_tt0884328.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/7b2oD1oxUxdDft486Q7oPNPzMlf.jpg" group-title="FILMES | TERROR",A Morte do Demônio (2013)
+https://vods1.watchingvs.com/m/A%20Morte%20do%20Dem%C3%B4nio_2013_tt1288558.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ElZtqGvOxzI1SBR3cCmFkwKQu1.jpg" group-title="FILMES | TERROR",A Casa de Cera (2005)
+https://vods1.watchingvs.com/m/A%20Casa%20de%20Cera_2005_tt0397065.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hR4dXPlWq5Nekwjqbp3gFGeiiZS.jpg" group-title="FILMES | TERROR",Midsommar: O Mal Não Espera a Noite (2019)
+https://vods1.watchingvs.com/m/Midsommar:%20O%20Mal%20N%C3%A3o%20Espera%20a%20Noite_2019_tt8772262.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/aIoDPmYR9xSkQIUjqmjmu290lLW.jpg" group-title="FILMES | TERROR",Halloween: O Início (2007)
+https://vods1.watchingvs.com/m/Halloween:%20O%20In%C3%ADcio_2007_tt0373883.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg" group-title="FILMES | TERROR",Halloween (2018)
+https://vods1.watchingvs.com/m/Halloween_2018_tt1502407.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xb1AAGHoajOIx2h1DK4IPp3TxzV.jpg" group-title="FILMES | TERROR",Halloween: Ressurreição (2002)
+https://vods1.watchingvs.com/m/Halloween:%20Ressurrei%C3%A7%C3%A3o_2002_tt0220506.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/jLWjQASwYGghD7gWxvt9BYwSwgW.jpg" group-title="FILMES | TERROR",Halloween H20: Vinte Anos Depois (1998)
+https://vods1.watchingvs.com/m/Halloween%20H20:%20Vinte%20Anos%20Depois_1998_tt0120694.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uuDxdyMC24unNcnJLS61NipPs2F.jpg" group-title="FILMES | TERROR",Sexta-Feira 13 (2009)
+https://vods1.watchingvs.com/m/Sexta-Feira%2013_2009_tt0758746.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | TERROR",AAAAAAA
 
-######################################## FILMES | LANÇAMENTO #################################################
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | TERROR",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+#EXTINF:-1 tvg-name="" tvg-logo="AAAAAAA" group-title="FILMES | AAAAA",AAAAAAA
+
+
+
+
+######################################## FILMES | DRIVE #################################################
 
 
 
