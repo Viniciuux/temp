@@ -413,6 +413,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES | ADD RECENTES #################################################
 
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/f6hXVGOjmwrmMjlPFHgXdFEmA8Y.jpg" group-title="FILMES | ANIMAÇÃO",O Panda do Kung Fu (2008)
 https://vods1.watchingvs.com/m/Kung%20Fu%20Panda_2008_tt0441773.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mgypa5hjjr2QXiaa5MwPlQuh3oe.jpg" group-title="FILMES | ANIMAÇÃO",O Panda do Kung Fu 2 (2011)
@@ -467,29 +468,54 @@ https://vods1.watchingvs.com/m/(Vers%C3%A3o%20Estendida)O%20Hobbit:%20A%20Desola
 https://vods1.watchingvs.com/m/(Vers%C3%A3o%20Estendida)O%20Hobbit:%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos_2014_tt2310332.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rK49gf1crAVdtr7sVwqrTKWFkDM.jpg" group-title="FILMES | AVENTURA",Parque Jurássico III (2001)
 https://vods1.watchingvs.com/m/Jurassic%20Park%20III_2001_tt0163025.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="FILMES | AVENTURA",A Banca dos Beijos (2018)
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8TbFTREtgpTOMpxQ5ZJjiZIlVS1.jpg" group-title="FILMES | ROMANCE",A Banca dos Beijos (2018)
 https://cdn.vod-cinevs.com/f/A%20Barraca%20do%20Beijo_454983.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AVENTURA",AAAAAA
-
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oUafkafJiFKkXuzROaAY8N9gGq.jpg" group-title="FILMES | ROMANCE",A Banca dos Beijos 2 (2020)
+https://vods1.watchingvs.com/subs/A%20Barraca%20do%20Beijo%202_2020_tt9784456.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uwyySfv4kybDpVebZhyb0Bnk3dz.jpg" group-title="FILMES | ROMANCE",A Cinco Passos de Você (2019)
+https://vods1.watchingvs.com/m/A%20Cinco%20Passos%20de%20Voc%C3%AA_2019_tt6472976.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="FILMES | ROMANCE",Titanic (1997)
+https://vods1.watchingvs.com/m/Titanic_1997_tt0120338.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uD0p6CgVhBBJKiYFdqeU1C6PMmd.jpg" group-title="FILMES | ROMANCE",Querido John (2010)
+https://vods1.watchingvs.com/m/Querido%20John_2010_tt0989757.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/A07izLVyZCrmq0HTvFg6qdqiZE5.jpg" group-title="FILMES | ROMANCE",O Diário da Nossa Paixão (2004)
+https://vods1.watchingvs.com/m/Di%C3%A1rio%20de%20uma%20Paix%C3%A3o_2004_tt0332280.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xbfB2yzfGIPKBDDFize1Y5acqjm.jpg" group-title="FILMES | ROMANCE",Como se Fosse a Primeira Vez (2004)
+https://vods1.watchingvs.com/m/Como%20se%20Fosse%20a%20Primeira%20Vez_2004_tt0343660.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uNOYr7OGdlzja4a4nCSZsaCtA1V.jpg" group-title="FILMES | ROMANCE",Para Sempre Minha Garota (2018)
+https://vods1.watchingvs.com/m/Minha%20Garota%20para%20Sempre_2018_tt4103724.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hDBghjJCPeGXJTOMq4910KvR1l9.jpg" group-title="FILMES | DRAMA",De Volta a Casa (2019)
+https://vods1.watchingvs.com/m/A%20Caminho%20de%20Casa_2019_tt7616798.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/wt050OjvLsiP2pS39CvsKuNLwcp.jpg" group-title="FILMES | ROMANCE",Seduz-me Se És Capaz (2019)
+https://vods1.watchingvs.com/m/Casal%20Improv%C3%A1vel_2019_tt2139881.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1a60KPNTC4JKYphNQveAB37Lyif.jpg" group-title="FILMES | ROMANCE",Como eu Era Antes de Você (2016)
+https://vods1.watchingvs.com/m/Como%20Eu%20Era%20Antes%20de%20Voc%C3%AA_2016_tt2674426.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/c2iq6EV5Q7PHJX3GSn0SbwOLMKT.jpg" group-title="FILMES | ROMANCE",Compramos um Zoológico (2011)
+https://vods1.watchingvs.com/m/Compramos%20Um%20Zool%C3%B3gico_2011_tt1389137.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sOWwthTte2y6Io5XJhdePBm9Dgv.jpg" group-title="FILMES | ROMANCE",Cinquenta Tons de Cinza (2015)
+https://vods1.watchingvs.com/m/Cinquenta%20Tons%20de%20Cinza_2015_tt2322441.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8OXjaB4dkNggr9ySHEk9UqIXddU.jpg" group-title="FILMES | ROMANCE",Cinquenta Tons Mais Escuros (2017)
+https://vods1.watchingvs.com/m/Cinquenta%20Tons%20Mais%20Escuros_2017_tt4465564.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hL1LAUSjs2jqHuFkJIQEMiar7EN.jpg" group-title="FILMES | ROMANCE",Cinquenta Tons de Liberdade (2018)
+https://vods1.watchingvs.com/m/Cinquenta%20Tons%20de%20Liberdade_2018_tt4477536.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="FILMES | ROMANCE",365 Dias (2020)
+https://vods1.watchingvs.com/m/365%20dni_2020_tt10886166.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oCTvLdp6YDmKl525uk6qlJUiViS.jpg" group-title="FILMES | ROMANCE",Burlesque (2010)
+https://vods1.watchingvs.com/m/Burlesque_2010_tt1126591.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ao3vG9cD1pORpQu6I7KmOiqHIrA.jpg" group-title="FILMES | ROMANCE",Azul É A Cor Mais Quente (2013)
+https://vods1.watchingvs.com/m/Azul%20%C3%A9%20a%20Cor%20Mais%20Quente_2013_tt2278871.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mMSZyYMy1jMeeCWcD44RBJZAe2k.jpg" group-title="FILMES | ROMANCE",Hoje Eu Quero Voltar Sozinho (2014)
+https://vods1.watchingvs.com/m/Hoje%20Eu%20Quero%20Voltar%20Sozinho_2014_tt1702014.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/q6yJALTJjYdjVKUuyNxgEYUcAMu.jpg" group-title="FILMES | DRAMA",Tim Maia: Vale o Que Vier (2015)
+https://vods1.watchingvs.com/m/Tim%20Maia_2014_tt3134058.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/vlgz2XLdLkSI5aNUJLHqUXVQ1GU.jpg" group-title="FILMES | AÇÃO",Greyhound - Na Mira do Inimigo (2020)
+https://vods1.watchingvs.com/m/Greyhound:%20Na%20Mira%20do%20Inimigo_2020_tt6048922.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" group-title="FILMES | AÇÃO",John Wick - De Volta ao Jogo (2014)
+https://vods1.watchingvs.com/m/De%20Volta%20ao%20Jogo_2014_tt2911666.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="FILMES | AÇÃO",John Wick: Um Novo Dia para Matar (2017)
+https://vods1.watchingvs.com/m/John%20Wick:%20Um%20Novo%20Dia%20para%20Matar_2017_tt4425200.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg" group-title="FILMES | AÇÃO",John Wick 3: Parabellum (2019)
+https://vods1.watchingvs.com/m/John%20Wick%203:%20Parabellum_2019_tt6146586.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/k13tASemEhEDMV089QOlImesdBq.jpg" group-title="FILMES | DRAMA",Precisamos Falar Sobre o Kevin (2011)
 https://vods1.watchingvs.com/m/Precisamos%20Falar%20Sobre%20o%20Kevin_2011_tt1242460.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg" group-title="FILMES | AÇÃO",A Origem (2010)
@@ -719,9 +745,9 @@ https://vods1.watchingvs.com/m/Doom:%20A%20Porta%20do%20Inferno_2005_tt0419706.m
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/b7pEmwnayMZCVlnSq33izWcOlPI.jpg" group-title="FILMES | FICÇÃO",Doom: Annihilation (2019)
 https://vods1.watchingvs.com/m/Doom:%20Aniquila%C3%A7%C3%A3o_2020_tt8328716.mp4
 
+
+
 ######################################## FILMES | DRIVE #################################################
-
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9ed7459c82764af245e9bba587575f0fbc7416290bc305797cf9cc42f4737e86.jpg" group-title="FILMES | LANÇAMENTO",Um Filme Minecraft (2025)
 https://drive.usercontent.google.com/download?id=11MT3GrAE0HHGJRsrJ1eROyD8lmojowZI&export=download&authuser=0&confirm=t&uuid=9174dfb8-2b5d-47fa-8533-587c60587c49&at=ALoNOgnbV5nNCGCb7E2Gr55bF3sf%3A1747939067522
@@ -1089,9 +1115,6 @@ https://drive.usercontent.google.com/download?id=1Kj-a5ifMeHjm3IOvqb_9h9K4320MLv
 https://drive.usercontent.google.com/download?id=1ZJVHLquoJEPKQ5H1s1TKwr022vbIG5zA&export=download&authuser=0&confirm=t&uuid=e48d3868-7166-4d82-b53a-d1b24a555608&at=AEz70l7a6I74Bl6Rf7u6Ui_YMK5W%3A1742304684589
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES drive",Um Filho Que Caiu do Céu
 https://drive.usercontent.google.com/download?id=1s6Fz2fvU9BkdZHEDquzzKfR5QZYd5_X-&export=download&authuser=0&confirm=t&uuid=ca5d67f6-ab13-4c22-8425-a4800d8f4c22&at=AEz70l73y_18V8cYxKGeiPH7q1ar%3A1742304675728
-
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfC6UU9Dik01e80aUPCHI9idDZ.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio I - A Ameaça Fantasma (1999)
 https://drive.usercontent.google.com/download?id=1loRP8o2o3rPMPQ8Iii-ICyIaHhsgIrld&export=download&authuser=0&confirm=t&uuid=323139d5-5868-4cdf-938a-8c8a63845005&at=AEz70l7lkXVxiZz7E8zGwVx9nD6E%3A1741618059086
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ri3Gu1dYMxDcT0t4sUi0Aqf7MRS.jpg" group-title="COLEÇÃO | STAR WARS",Star Wars: Episódio II - O Ataque dos Clones (2002)
