@@ -412,78 +412,78 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 
 ######################################## FILMES | ADD RECENTES #################################################
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
-#EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAAA",AAAAAA
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/20dnQ6NRLFYOCldykWBMJRtRL19.jpg" group-title="FILMES | COMÉDIA",Vovó... Zona 2 (2006)
+https://vods1.watchingvs.com/m/Vov%C3%B3...%20Zona%202_2006_tt0421729.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/cpGNXhl0zLAd8zeVIbtRPvDoNQm.jpg" group-title="FILMES | COMÉDIA",Vovó... Zona 3: Tal Pai, Tal Filho (2011)
+https://vods1.watchingvs.com/m/Vov%C3%B3...%20Zona%203:%20Tal%20Pai,%20Tal%20Filho_2011_tt1464174.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9PuLtiji3ZN6o2Uan9SqDl8wdYX.jpg" group-title="FILMES | COMÉDIA",Os Parças (2017)
+https://vods1.watchingvs.com/m/Os%20Par%C3%A7as_2017_tt7702334.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ggv4bKNHKbzD4wqr520X8n5AkBV.jpg" group-title="FILMES | COMÉDIA",Os Parças 2 (2019)
+https://vods1.watchingvs.com/m/Os%20Par%C3%A7as%202_2019_tt9207188.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sExfA7YUSXQJRGmOZ9v52lxd16I.jpg" group-title="FILMES | COMÉDIA",Norbit - Uma Comédia de Peso (2007)
+https://vods1.watchingvs.com/m/Norbit,%20uma%20Com%C3%A9dia%20de%20Peso_2007_tt0477051.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/jcAU1PXB4Dg0NP3uY2XEwO9rNsi.jpg" group-title="FILMES | AÇÃO",Duro de Matar (1988)
+https://vods1.watchingvs.com/m/Duro%20de%20Matar_1988_tt0095016.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lHtV1SrCJUAHXK8jeX3KrpxwTFf.jpg" group-title="FILMES | AÇÃO",Duro de Matar 2 (1990)
+https://vods1.watchingvs.com/m/Duro%20de%20Matar%202_1990_tt0099423.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rujGZSxMjAXFSwbikMycrJNCMeW.jpg" group-title="FILMES | AÇÃO",Duro de Matar 3: A Vingança (1995)
+https://vods1.watchingvs.com/m/Duro%20de%20Matar%203:%20A%20Vingan%C3%A7a_1995_tt0112864.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/jjWBSZFDjWMhagwzznNyoGR9Ksu.jpg" group-title="FILMES | AÇÃO",Duro de Matar 4.0 (2007)
+https://vods1.watchingvs.com/m/Duro%20de%20Matar%204.0_2007_tt0337978.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lwV8LxjFT6AdbUJxQrDIMZz5C8I.jpg" group-title="FILMES | AÇÃO",Duro de Matar: Um Bom Dia para Morrer (2013)
+https://vods1.watchingvs.com/m/Duro%20de%20Matar:%20Um%20Bom%20Dia%20para%20Morrer_2013_tt1606378.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/hPxJvcZJiuDdYCUzwCbOCzsKAOf.jpg" group-title="FILMES | AÇÃO",Diamante de Sangue (2006)
+https://vods1.watchingvs.com/m/Diamante%20de%20Sangue_2006_tt0450259.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/gfnXixcGC060QcG6JPxN6AMdVsq.jpg" group-title="FILMES | DRAMA",Cidade de Deus (2002)
+https://vods1.watchingvs.com/m/Cidade%20de%20Deus_2004_tt0317248.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qZ7SgOgQZvNoCWvpVeQmOZfJOpo.jpg" group-title="FILMES | DRAMA",Cidade dos Homens (2002)
+https://vods1.watchingvs.com/m/Cidade%20dos%20Homens_2007_tt0870090.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/g5VjUzw2Vn4bFrrvG1dfhhmOCIu.jpg" group-title="FILMES | DRAMA",Era uma Vez... (2008)
+https://vods1.watchingvs.com/m/Era%20Uma%20Vez..._2008_tt1174691.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/aGnLqaWBBAr7lvQbfDEh5EQRk7H.jpg" group-title="FILMES | DRAMA",Última Parada 174 (2008)
+https://vods1.watchingvs.com/m/%C3%9Altima%20Parada%20174_2008_tt1280567.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mE6PI7AR9GYCOu7M0zmTuzJGGCa.jpg" group-title="FILMES | AÇÃO",Máquina Mortífera (1987)
+https://vods1.watchingvs.com/m/M%C3%A1quina%20Mort%C3%ADfera_1987_tt0093409.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="FILMES | AÇÃO",Máquina Mortífera 2 (1989)
+https://vods1.watchingvs.com/m/M%C3%A1quina%20Mort%C3%ADfera%202_1989_tt0097733.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="FILMES | AÇÃO",Máquina Mortífera 3 (1992)
+https://vods1.watchingvs.com/m/M%C3%A1quina%20Mort%C3%ADfera%203_1992_tt0104714.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="FILMES | AÇÃO",Máquina Mortífera 4 (1998)
+https://vods1.watchingvs.com/m/M%C3%A1quina%20Mort%C3%ADfera%204_1998_tt0122151.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/sZh47Vaelx03qMYo5wxk1ziTA6E.jpg" group-title="FILMES | AÇÃO",Máquinas Mortais (2018)
+https://vods1.watchingvs.com/m/M%C3%A1quinas%20Mortais%20Cut__tt1571234.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" group-title="FILMES | AÇÃO",Tropa de Elite (2007)
+https://vods1.watchingvs.com/m/Tropa%20de%20Elite_2007_tt0861739.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ldCCmRdBPk5FR13W975zXAM1dGi.jpg" group-title="FILMES | AÇÃO",Tropa de Elite 2: O Inimigo Agora é Outro (2010)
+https://vods1.watchingvs.com/m/Tropa%20de%20Elite%202:%20O%20Inimigo%20Agora%20%C3%A9%20Outro_2010_tt1555149.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/m1GuMAd5l6IJXfUrovDnjAQPRj9.jpg" group-title="FILMES | COMÉDIA",A Maratona de Brittany (2019)
+https://vods1.watchingvs.com/m/A%20Maratona%20de%20Brittany_2019_tt7671064.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/4GxuPJxUcArRpfBGJL6BG3B4Cb9.jpg" group-title="FILMES | COMÉDIA",American Pie: A Primeira Vez é Inesquecível (1999)
+https://vods1.watchingvs.com/m/American%20Pie:%20A%20Primeira%20Vez%20%C3%A9%20Inesquec%C3%ADvel_1999_tt0163651.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/kjeavq1VD0ZRBmt2QVFfZlS6ZaG.jpg" group-title="FILMES | COMÉDIA",American Pie 2: A Segunda Vez é Ainda Melhor (2001)
+https://vods1.watchingvs.com/m/American%20Pie:%20A%20Segunda%20Vez%20%C3%A9%20Ainda%20Melhor_2001_tt0252866.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uG1eEKdLIq8Lxlq9AQMtdYQ4rk0.jpg" group-title="FILMES | COMÉDIA",American Pie: O Casamento (2003)
+https://vods1.watchingvs.com/m/American%20Pie:%20O%20Casamento_2003_tt0328828.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uyISJ1zmoppCusa7WOmmsrluU72.jpg" group-title="FILMES | COMÉDIA",American Pie: Tocando a Maior Zona (2005)
+https://vods1.watchingvs.com/m/American%20Pie:%20Tocando%20a%20Maior%20Zona_2005_tt0436058.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/tW8I7JqwDIACpS3Wo7aJnYnyFup.jpg" group-title="FILMES | COMÉDIA",American Pie: O Último Stifler Virgem (2006)
+https://vods1.watchingvs.com/m/American%20Pie:%20O%20%C3%9Altimo%20Stifler%20Virgem_2006_tt0808146.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/w3COJsjYRfrhWMLrnAbldPtisBV.jpg" group-title="FILMES | COMÉDIA",American Pie: Caindo em Tentação (2007)
+https://vods1.watchingvs.com/m/American%20Pie:%20Caindo%20em%20Tenta%C3%A7%C3%A3o_2007_tt0974959.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/buYt2qVn4oDczxtqS6HLQYrbHOY.jpg" group-title="FILMES | COMÉDIA",American Pie: O Livro do Amor (2009)
+https://vods1.watchingvs.com/m/American%20Pie:%20O%20Livro%20do%20Amor_2009_tt1407050.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/8mxG1SPWilznur6Q4vKjHG7boyG.jpg" group-title="FILMES | COMÉDIA",American Pie: O Reencontro (2012)
+https://vods1.watchingvs.com/m/American%20Pie:%20O%20Reencontro_2012_tt1605630.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/9UmOlfb6Szhtr5wmE2YmFwer6wo.jpg" group-title="FILMES | AÇÃO",Rambo: Programado Para Matar (1982)
+https://vods1.watchingvs.com/m/Rambo%20-%20Programado%20Para%20Matar_1983_tt0083944.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/epsF1t9solZDbqTksCiJmBL9Wpy.jpg" group-title="FILMES | AÇÃO",Rambo II - A Missão (1985)
+https://vods1.watchingvs.com/m/Rambo%202:%20A%20Miss%C3%A3o_1985_tt0089880.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/jxzoYPjVa9pKL3fOejP3fPJTPpl.jpg" group-title="FILMES | AÇÃO",Rambo III (1988)
+https://vods1.watchingvs.com/m/Rambo%203_1988_tt0095956.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/2NbmBzgG1chI3fS31HHfZEEsApw.jpg" group-title="FILMES | AÇÃO",Rambo IV (2008)
+https://vods1.watchingvs.com/m/Rambo%20IV_2008_tt0462499.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/uCHxYukh0ujjI63f5wXuWf44TNf.jpg" group-title="FILMES | AÇÃO",Rambo: Até o Fim (2019)
+https://vods1.watchingvs.com/m/Rambo:%20At%C3%A9%20o%20Fim_2019_tt1206885.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
 
 #EXTINF:-1 tvg-name="" tvg-logo="AAAAA" group-title="FILMES | AAAAA",AAAAAA
