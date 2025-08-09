@@ -440,6 +440,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ######################################## FILMES | ADD RECENTES #################################################
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES | TERROR",Extermínio: A Evolução
+https://cdn.iageni.com/m/Extermínio.A.Evolução.2025.1080p.WEB-DL.DUAL.5.1.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="FILMES | TERROR",Silent Hill: Revelação
 https://vods1.watchingvs.com/m/Silent%20Hill:%20Revelação_2013_tt0938330.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mUSwXnXI2uZbE7ymwTK28S6QzD1.jpg" group-title="FILMES | TERROR",Until Dawn: Noite de Terror (2025)
