@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/Viniciuux/guid/refs/heads/main/filme.xml,https://raw.githubusercontent.com/Omertron/api-themoviedb/refs/heads/master/pom.xml,https://raw.githubusercontent.com/matheusbattisti/movies_lib/refs/heads/main/index.html,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/leandcesar/themoviedb/refs/heads/master/themoviedb/routes_async/movies.py,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
+
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
 
 
@@ -11,7 +16,31 @@ https://video.twimg.com/amplify_video/1813159377353822209/vid/avc1/1280x720/VGkH
 https://pixeldrain.com/api/file/YKXedxH1
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qVDP304R1LUAVico3wfbllzA3R4.jpg" group-title="PARA ASSISTIR",Beleza Adormecida (2011)
 https://drive.usercontent.google.com/download?id=1JTH3kDdj8hi4ossR1swFt2P5dNwr8oxH&export=download&authuser=0&confirm=t&uuid=9c4f1d5c-614b-41c0-8c09-bf93f1e99649&at=ALWLOp6jS52DJNswt0JzOrjfGxnr:1764272818968
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/t2CHmKC6B3H78YikUXB70BYAvoI.jpg" group-title="PARA ASSISTIR",Ninfomaníaca: Vol. I (2013)
+https://drive.usercontent.google.com/download?id=1artfOKFqLqqZykp79RLxDPKVmLp4ExX7&export=download&authuser=0&confirm=t&uuid=89352fee-dccd-446c-bab4-5a46c4892a70&at=ALWLOp7J0nvRpJdvOiKUUyHNlMiw:1764273943376
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/nbMhSVpyk5pNLqCSLadfzCPy77U.jpg" group-title="PARA ASSISTIR",Ninfomaníaca - Vol. 2 (2013)
+https://drive.usercontent.google.com/download?id=1wVH6tY5GY9zUqZKma1QOS2JpFK8nwIQA&export=download&authuser=0&confirm=t&uuid=dc73a8dd-fe67-4dff-9cf7-d45911182579&at=ALWLOp7FqJ9tlWlaVXFHMOU5ZDm9:1764273979426
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rqzupBGrChmHG5Wl6wy5vI0V3Vz.jpg" group-title="PARA ASSISTIR",Laura's Toys (1975)
+https://vidcdn2.eroticmv.com/dat1/laurastoys1975/laurastoys1975.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+https://drive.usercontent.google.com/download?id=1on4Y8kYgCyRfNwElNnXzDyMuC93VxP1V&export=download&authuser=0&confirm=t&uuid=d1404001-9a65-4f52-89ca-1bda133eb8b8&at=ALWLOp5d7M2TYjX9X7OO2DcujXQD:1764275882963
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/k6LZn3greNmaYhySVnwUkkDmlpo.jpg" group-title="PARA ASSISTIR",Satanic Pandemonium (1975)
+https://drive.usercontent.google.com/download?id=1on4Y8kYgCyRfNwElNnXzDyMuC93VxP1V&export=download&authuser=0&confirm=t&uuid=d1404001-9a65-4f52-89ca-1bda133eb8b8&at=ALWLOp5d7M2TYjX9X7OO2DcujXQD:1764275882963
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bKhdZsRNmBBI4IoVgKxbXriMMxH.jpg" group-title="PARA ASSISTIR",A Secretária (2002)
+https://drive.usercontent.google.com/download?id=1TUhOLdpAHezen6mBFHQR_W_niazbp9is&export=download&authuser=0&confirm=t&uuid=5c569904-a189-4572-a7cc-6d71c7d9f66a&at=ALWLOp55RVdmRD80VjKtNvd67eSg:1764278085988
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",Eu, Emmanuelle (1969)
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARA ASSISTIR",
 
 
 ######################################## FILMES | ADD RECENTES #################################################
